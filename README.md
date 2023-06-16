@@ -1,6 +1,4 @@
 # HTML5-CSS3
- <h1>Descrição do Repositório</h1>
- 
  <h2>Sumário</h2>
 
  <p>
@@ -9,7 +7,7 @@
 
  <picture>
  <source media="" type="">
- <img src="" alt="Curso de HTML e CSS, por Gustavo Guanabara">
+ <img src="../../../Trabalhos%20Design/Designs%20prontos/Random/Curso%20de%20HTML%20%26%20CSS.png" alt="Curso de HTML e CSS, por Gustavo Guanabara">
  </picture>
 
  <h2>Conteúdo</h2>
@@ -21,10 +19,10 @@
  <h3>Nesse curso, os seguintes tópicos seram explorados:</h3>
 
  <ul>
-    <li>Módulo 1 - Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos.</li>
-    <li>Módulo 2 - Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade.</li>
-    <li>Módulo 3 - Versionamento de software, hospedagem de sites estáticos, tabelas.</li>
-    <li>Módulo 4 - Quadros em linha, formulários, media queries, mobile first</li>
+    <li>Módulo 1 - Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos;</li>
+    <li>Módulo 2 - Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade;</li>
+    <li>Módulo 3 - Versionamento de software, hospedagem de sites estáticos, tabelas;</li>
+    <li>Módulo 4 - Quadros em linha, formulários, media queries, mobile first;</li>
     <li>Módulo 5 - Flexbox e Grid Layout.</li>
  </ul>
 
