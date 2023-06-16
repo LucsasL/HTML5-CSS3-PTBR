@@ -15,27 +15,27 @@
  <h3>Nesse curso, os seguintes tópicos seram explorados:</h3>
 
  <ul>
-    <li><a href="" target="_blank" rel="external">Módulo 1</a> - Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos;</li>
-    <li><a href="" target="_blank" rel="external">Módulo 2</a> - Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade;</li>
-    <li><a href="" target="_blank" rel="external">Módulo 3</a> - Versionamento de software, hospedagem de sites estáticos, tabelas;</li>
-    <li><a href="" target="_blank" rel="external">Módulo 4</a> - Quadros em linha, formulários, media queries, mobile first;</li>
-    <li><a href="" target="_blank" rel="external">Módulo 5</a> - Flexbox e Grid Layout.</li>
+    <li><a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1</a> - Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos;</li>
+    <li><a href="https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s" target="_blank" rel="external">Módulo 2</a> - Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade;</li>
+    <li><a href="https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">Módulo 3</a> - Versionamento de software, hospedagem de sites estáticos, tabelas;</li>
+    <li><a href="https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT" target="_blank" rel="external">Módulo 4</a> - Quadros em linha, formulários, media queries, mobile first;</li>
+    <li>Módulo 5 - Flexbox e Grid Layout.</li>
  </ul>
 
  <h2>Documentos</h2>
 
  <ul>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%201/" target="_self" rel="next">Exercícios módulo 1</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/" target="_self" rel="next">Exercícios módulo 2</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/" target="_self" rel="next">Exercícios módulo 3</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/" target="_self" rel="next">Exercícios módulo 4</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/" target="_self" rel="next">Exercícios módulo 5</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%201/Hall%20exerc%C3%ADcios%201.html" target="_self" rel="next">Exercícios módulo 1</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/Hall%20exerc%C3%ADcios%203.html" target="_self" rel="next">Exercícios módulo 3</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a></li>
 
    <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%201/Hall%20desafios%201.html" target="_self" rel="next">Desafio módulo 1</a></li>
    <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafio%202.html" target="_self" rel="next">Desafio módulo 2</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/" target="_self" rel="next">Desafio módulo 3</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/" target="_self" rel="next">Desafio módulo 4</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/" target="_self" rel="next">Desafio módulo 5</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/Hall%20desafios%203.html" target="_self" rel="next">Desafio módulo 3</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/Hall%20desafios%204.html" target="_self" rel="next">Desafio módulo 4</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/Hall%20desafios%205.html" target="_self" rel="next">Desafio módulo 5</a></li>
  </ul>
 
  <h2>Atualizações</h2>
