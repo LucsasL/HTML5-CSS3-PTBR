@@ -22,6 +22,22 @@
     <li>Módulo 5 - Flexbox e Grid Layout.</li>
  </ul>
 
+ <h2>Documentos</h2>
+
+ <ul columns="2">
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%201/" target="_self" rel="next">Exercícios módulo 1</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/" target="_self" rel="next">Exercícios módulo 2</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/" target="_self" rel="next">Exercícios módulo 3</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/" target="_self" rel="next">Exercícios módulo 4</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/" target="_self" rel="next">Exercícios módulo 5</a></li>
+
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%201/Hall%20desafios%201.html" target="_self" rel="next">Desafio módulo 1</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafio%202.html" target="_self" rel="next">Desafio módulo 2</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/" target="_self" rel="next">Desafio módulo 3</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/" target="_self" rel="next">Desafio módulo 4</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/" target="_self" rel="next">Desafio módulo 5</a></li>
+ </ul>
+
  <h2>Atualizações</h2>
 
  <h3>Atualização de avanço no curso - 16 de Junho de 2023</h3>
