@@ -32,7 +32,7 @@
    <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a></li>
 
    <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%201/Hall%20desafios%201.html" target="_self" rel="next">Desafio módulo 1</a></li>
-   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafio%202.html" target="_self" rel="next">Desafio módulo 2</a></li>
+   <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafios%202.html" target="_self" rel="next">Desafio módulo 2</a></li>
    <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/Hall%20desafios%203.html" target="_self" rel="next">Desafio módulo 3</a></li>
    <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/Hall%20desafios%204.html" target="_self" rel="next">Desafio módulo 4</a></li>
    <li><a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/Hall%20desafios%205.html" target="_self" rel="next">Desafio módulo 5</a></li>
