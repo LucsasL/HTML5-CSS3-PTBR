@@ -15,16 +15,16 @@
  <h3>Nesse curso, os seguintes tópicos seram explorados:</h3>
 
  <ul>
-    <li>Módulo 1 - Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos;</li>
-    <li>Módulo 2 - Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade;</li>
-    <li>Módulo 3 - Versionamento de software, hospedagem de sites estáticos, tabelas;</li>
-    <li>Módulo 4 - Quadros em linha, formulários, media queries, mobile first;</li>
-    <li>Módulo 5 - Flexbox e Grid Layout.</li>
+    <li><a href="" target="_blank" rel="external">Módulo 1</a> - Conceitos básicos, preparação do ambiente, semântica da HTML5, textos, títulos, ligações, multimídia, estilos;</li>
+    <li><a href="" target="_blank" rel="external">Módulo 2</a> - Fundamentos do design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade;</li>
+    <li><a href="" target="_blank" rel="external">Módulo 3</a> - Versionamento de software, hospedagem de sites estáticos, tabelas;</li>
+    <li><a href="" target="_blank" rel="external">Módulo 4</a> - Quadros em linha, formulários, media queries, mobile first;</li>
+    <li><a href="" target="_blank" rel="external">Módulo 5</a> - Flexbox e Grid Layout.</li>
  </ul>
 
  <h2>Documentos</h2>
 
- <ul columns="2">
+ <ul>
    <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%201/" target="_self" rel="next">Exercícios módulo 1</a></li>
    <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/" target="_self" rel="next">Exercícios módulo 2</a></li>
    <li><a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/" target="_self" rel="next">Exercícios módulo 3</a></li>
