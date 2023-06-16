@@ -8,7 +8,7 @@
  <p>
     <picture>
     <source media="" type="">
-    <img src="../../../trabalhos-design/designs-prontos/random/curso-de-html-css.png" alt="Curso de HTML e CSS, por Gustavo Guanabara" width="500px">
+    <img src="Read%20me%20files/curso-de-html-css.png" alt="Curso de HTML e CSS, por Gustavo Guanabara" width="500px">
     </picture>
  </p>
 
