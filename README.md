@@ -4,7 +4,7 @@
     Curso de HTML5 e CSS3 criado pelo professor <a href="https://github.com/gustavoguanabara" target="_self" rel="next">Gustavo Guanabara</a> para o <a href="https://www.youtube.com/@CursoemVideo" target="_blank" rel="external">Curso em Vídeo</a>. Abrangindo as diversas técnicas contidas nas linguagens de marcações, esse curso, antes feito de forma mais simples em 2013, busca expandir e explorar as principais linguagens de marcação contidas em sites na internet; dentre elas, há o HTML, que serve como uma estrutura semântica, e CSS, que é utilizada para desenvolver o design dos documentos criados.
  </p>
 
- <img src="Read%20me%20files/curso-de-html-css.png" alt="Curso de HTML e CSS, por Gustavo Guanabara">
+ <img src="Geral/Imagens/curso-de-html-css.png" alt="Curso de HTML e CSS, por Gustavo Guanabara">
 
  <h2>Conteúdo</h2>
 
