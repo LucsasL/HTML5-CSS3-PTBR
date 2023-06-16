@@ -7,7 +7,7 @@
 
  <picture>
  <source media="" type="">
- <img src="../../../Trabalhos%20Design/Designs%20prontos/Random/Curso%20de%20HTML%20%26%20CSS.png" alt="Curso de HTML e CSS, por Gustavo Guanabara">
+ <img src="../../../Trabalhos%20Design/Designs%20prontos/Random/Curso-de-HTML-e-CSS.png" alt="Curso de HTML e CSS, por Gustavo Guanabara">
  </picture>
 
  <h2>Conteúdo</h2>
