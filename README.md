@@ -1,8 +1,6 @@
 # HTML5-CSS3
  <h1>Descrição do Repositório</h1>
-
- <hr>
-
+ 
  <h2>Sumário</h2>
 
  <p>
