@@ -45,3 +45,9 @@
  <p>
     Por enquanto, apenas os documentos do módulo 1 e 2 estão completos, então não há muito o que explorar por aqui, já que se trata de documentos iguais aos criados nas aulas do curso (além de ser um conteúdo facilmente replicável, ele provavelmente é o primeiro passo da maioria das pessoas na programação). Tive o intuito de colocar os projetos aqui por duas razões: primeiro, o curso pede (lol), e segundo, para salvar e documentar meu progresso na programação e gerar uma perspectiva do desenvolvimento dos meus códigos para a contribuição da comunidade e de nossa área em geral. Começarei o módulo 3 hoje.
  </p>
+
+ <h3>Atualização de avanço do curso - 18 de Junho de 2023</h3>
+
+ <p>
+    Volto para atualizar o meu progresso no curso: Pretendo dar uma pausa no atual curso de HTML e CSS, pois pretendo desenvolver mais conhecimento em repositórios, dar uma estudada no funcionamento completo do Git e Github (e demais repositórios locais), pois como sou iniciante e minha conta foi recem-criada (23 de Março de 2023) eu não tenho um aprofundamento legal na plataforma, e para que eu melhore o conteúdo é necessário entender esses conceitos. O curso também pede para eu dar uma olhada no <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA" target="_blank" rel="external">Curso de Git e Github</a>, então acabei me interessando, pois preciso entender como funciona a dinâmica dos arquivos .md. Eu ainda pretendo estudar mais coisas antes de realmente avançar no <a href="../JavaScript%20(PT-BR)/" target="_blank" rel="external">curso de JavaScript</a>, como lógica de programação como exemplo.
+ </p>
