@@ -7,6 +7,7 @@
 
     <style>
         body {
+            /*
             height: 97vh;
             background-color: black;
             background-image: url('Imagens/wallpaper002.jpg');
@@ -14,11 +15,20 @@
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
+
+             Shorthand - Background
+                Color -> image -> position -> [size] -> attachment
+            */
+
+            background: black url('Imagens/wallpaper002.jpg') center center no-repeat fixed;
+            background-size: cover;
+
         }
 
         main {
             background-color: white;
-            width: 400px;
+            min-width: 400px;
+            max-width: 800px;
             padding: 10px;
             margin: auto;
             border: 1px solid darkblue;
