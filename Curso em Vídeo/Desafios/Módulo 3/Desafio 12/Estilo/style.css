@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
-@import url('');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
 :root {
     --sombra: rgba(0, 0, 0, 0.49);
@@ -23,6 +25,20 @@ header {
     text-align: center;
 }
 
+header > h1 {
+    font-family: 'Passion One',Arial, Verdana, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 6em;
+
+    padding: 40px 0 2px 0;
+    margin: 7px;
+}
+
+header > p {
+    padding-bottom: 40px;
+    margin: 0;
+}
+
 header a {
     color: white;
     text-decoration: none;
@@ -33,19 +49,29 @@ header a:hover {
     text-decoration: underline;
 }
 
-p {
-    padding: 5px
+main p {
+    padding: 10px;
+    font-size: 25px;
+    font-family: 'Sriracha', Arial, Helvetica, sans-serif;
+}
+
+div {
+    margin: 0;
 }
 
 .branco {
     box-shadow: 9px 0px 9px var(--sombra);
+
+    padding: 10px;
 }
 
 #flor {
     background: black url('../Imagens/background001.jpg') center center fixed;
     background-size: cover;
 
-    height: 500px;
+    height: 700px;
+    margin: 0;
+
     position: relative;
 }
 
@@ -55,18 +81,16 @@ p {
 
     width: 300px;
     margin: 20px;
-    position: absolute;
-    top: 50%;
 
-    transform: translate(0%, 50%);
+    margin: 0 15px;
 }
 
 #paginas {
     background: black url('../Imagens/background002.jpg') center center fixed;
     background-size: cover;
 
-    height: 500px;
-    position: relative;
+    height: 700px;
+    margin: 0;
 }
 
 #paginas > p {
@@ -75,10 +99,8 @@ p {
 
     width: 300px;
     margin: 20px;
-    position: absolute;
-    top: 50%;
 
-    transform: translate(0%, 50%);
+    margin: 0 15px;
 }
 
 footer {
