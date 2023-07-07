@@ -55,11 +55,11 @@ main p {
     font-family: 'Sriracha', Arial, Helvetica, sans-serif;
 }
 
-div {
+section {
     margin: 0;
 }
 
-.branco {
+section.branco {
     box-shadow: 9px 0px 9px var(--sombra);
 
     padding: 10px;
