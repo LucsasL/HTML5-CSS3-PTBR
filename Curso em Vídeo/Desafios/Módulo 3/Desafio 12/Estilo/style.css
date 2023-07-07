@@ -65,7 +65,7 @@ section.branco {
     padding: 10px;
 }
 
-#flor {
+section#flor {
     background: black url('../Imagens/background001.jpg') center center fixed;
     background-size: cover;
 
@@ -75,7 +75,7 @@ section.branco {
     position: relative;
 }
 
-#flor p {
+section#flor p {
     background-color: rgba(0, 0, 0, 0.353);
     color: white;
 
@@ -85,7 +85,7 @@ section.branco {
     margin: 0 15px;
 }
 
-#paginas {
+section#paginas {
     background: black url('../Imagens/background002.jpg') center center fixed;
     background-size: cover;
 
@@ -93,7 +93,7 @@ section.branco {
     margin: 0;
 }
 
-#paginas > p {
+section#paginas > p {
     background-color: rgba(0, 0, 0, 0.353);
     color: white;
 
