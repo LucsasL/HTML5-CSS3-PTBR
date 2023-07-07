@@ -15,6 +15,19 @@
             border-collapse: collapse;
         }
 
+        caption {
+            background-color: #8e8ea7;
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+
+            border: 1px solid #a2a9b1;
+        }
+
+        tbody > tr:nth-child(2n) {
+            background-color: lightgray;
+        }
+
         th {
             background-color: #eaecf0;
 
@@ -23,8 +36,6 @@
         }
 
         td {
-            background-color: #f8f9fa;
-
             border: 1px solid #a2a9b1;
             padding: 15px 8px;
             text-align: center;
@@ -48,6 +59,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES
         TABLE
+            CAPTION
             THEAD
                 TR, TD, TH
             TBODY
@@ -57,12 +69,16 @@
     -->
 
     <table>
+        <caption>
+            População das unidades federativas
+        </caption>
+
         <thead>
             <tr>
-                <th>Posição</th>
-                <th>Estado</th>
-                <th>População</th>
-                <th>% da pop. total</th>
+                <th scope="col">Posição</th>
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 50px;">População</th>
+                <th scope="col" style="width: 50px;">% da pop. total</th>
             </tr>
         </thead>
 
@@ -70,173 +86,173 @@
             <tr>
                 <td>1</td>
                 <td class="state">São Paulo</td>
-                <td class="number">45.919 049</td>
+                <td class="number">45.919.049</td>
                 <td>22,2%</td>
             </tr>
 
             <tr>
                 <td>2</td>
                 <td class="state">Minas Gerais</td>
-                <td class="number">20 538 718</td>
+                <td class="number">20.538.718</td>
                 <td>10,0%</td>
             </tr>
 
             <tr>
                 <td>3</td>
                 <td class="state">Rio de Janeiro</td>
-                <td class="number">16 054 524</td>
+                <td class="number">16.054.524</td>
                 <td>8,0%</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td class="state">Bahia</td>
-                <td class="number">14 136 417</td>
+                <td class="number">14.136.417</td>
                 <td>7,1%</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td class="state">Paraná</td>
-                <td class="number">11 443 208</td>
+                <td class="number">11.443.208</td>
                 <td>5,7%</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td class="state">Rio Grande do Sul</td>
-                <td class="number">10 880 506</td>
+                <td class="number">10.880.506</td>
                 <td>5,3%</td>
             </tr>
             <tr>
                 <td>7</td>
                 <td class="state">Pernambuco</td>
-                <td class="number">9 058 155</td>
+                <td class="number">9.058.155</td>
                 <td>4,4%</td>
             </tr>
             <tr>
                 <td>8</td>
                 <td class="state">Ceará</td>
-                <td class="number">8 791 688</td>
+                <td class="number">8.791.688</td>
                 <td>4,3%</td>
             </tr>
             <tr>
                 <td>9</td>
                 <td class="state">Pará</td>
-                <td class="number">8 116 132</td>
+                <td class="number">8.116.132</td>
                 <td>4,1%</td>
             </tr>
             <tr>
                 <td>10</td>
                 <td class="state">Santa Catarina</td>
-                <td class="number">7 609 601</td>
+                <td class="number">7.609.601</td>
                 <td>3,7%</td>
             </tr>
             <tr>
                 <td>11</td>
                 <td class="state">Goiás</td>
-                <td class="number">7 055 228</td>
+                <td class="number">7.055.228</td>
                 <td>3,3%</td>
             </tr>
             <tr>
                 <td>12</td>
                 <td class="state">Maranhão</td>
-                <td class="number">6 775 152</td>
+                <td class="number">6.775.152</td>
                 <td>3,3%</td>
             </tr>
             <tr>
                 <td>13</td>
                 <td class="state">Paraíba</td>
-                <td class="number">3 974 495</td>
+                <td class="number">3.974.495</td>
                 <td>1,9%</td>
             </tr>
             <tr>
                 <td>14</td>
                 <td class="state">Amazonas</td>
-                <td class="number">3 941 175</td>
+                <td class="number">3.941.175</td>
                 <td>1,9%</td>
             </tr>
             <tr>
                 <td>15</td>
                 <td class="state">Espírito Santo</td>
-                <td class="number">3 833 486</td>
+                <td class="number">3.833.486</td>
                 <td>1,9%</td>
             </tr>
             <tr>
                 <td>16</td>
                 <td class="state">Mato Grosso</td>
-                <td class="number">3 658 813</td>
+                <td class="number">3.658.813</td>
                 <td>1,8%</td>
             </tr>
             <tr>
                 <td>17</td>
                 <td class="state">Rio Grande do Sul</td>
-                <td class="number">3 302 406</td>
+                <td class="number">3.302.406</td>
                 <td>1,6%</td>
             </tr>
             <tr>
                 <td>18</td>
                 <td class="state">Piauí</td>
-                <td class="number">3 269 200</td>
+                <td class="number">3.269.200</td>
                 <td>1,6%</td>
             </tr>
             <tr>
                 <td>19</td>
                 <td class="state">Alagoas</td>
-                <td class="number">3 127 511</td>
+                <td class="number">3.127.511</td>
                 <td>1,5%</td>
             </tr>
             <tr>
                 <td>20</td>
                 <td class="state">Distrito Federal</td>
-                <td class="number">2 817 068</td>
+                <td class="number">2.817.068</td>
                 <td>1,4%</td>
             </tr>
             <tr>
                 <td>21</td>
                 <td class="state">Mato Grosso do Sul</td>
-                <td class="number">2 756 700</td>
+                <td class="number">2.756.700</td>
                 <td>1,4%</td>
             </tr>
             <tr>
                 <td>22</td>
                 <td class="state">Sergipe</td>
-                <td class="number">2 209 558</td>
+                <td class="number">2.209.558</td>
                 <td>1,1%</td>
             </tr>
             <tr>
                 <td>23</td>
                 <td class="state">Rondônia</td>
-                <td class="number">1 581 016</td>
+                <td class="number">1.581.016</td>
                 <td>0,8%</td>
             </tr>
             <tr>
                 <td>24</td>
                 <td class="state">Tocantins</td>
-                <td class="number">1 511 459</td>
+                <td class="number">1.511.459</td>
                 <td>0,8%</td>
             </tr>
             <tr>
                 <td>25</td>
                 <td class="state">Acre</td>
-                <td class="number">830 026</td>
+                <td class="number">830.026</td>
                 <td>0,4%</td>
             </tr>
             <tr>
                 <td>26</td>
                 <td class="state">Amapá</td>
-                <td class="number">733 508</td>
+                <td class="number">733.508</td>
                 <td>0,4%</td>
             </tr>
             <tr>
                 <td>27</td>
                 <td class="state">Roraima</td>
-                <td class="number">636 303</td>
+                <td class="number">636.03</td>
                 <td>0,3%</td>
             </tr>
         </tbody>
 
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
-                <td id="total">0000</td>
+                <th scope="row">Total de Habitantes</th>
+                <td>Deu errado kkkkk</td>
             </tr>
         </tfoot>
     </table>
