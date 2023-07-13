@@ -48,6 +48,9 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 ## Documentos
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%201/Hall%20exerc%C3%ADcios%201.html" target="_self" rel="next">Exercícios módulo 1</a>
+
+   * <a href="" target="" rel=""></a>
+
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/Hall%20exerc%C3%ADcios%203.html" target="_self" rel="next">Exercícios módulo 3</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a>
@@ -73,3 +76,7 @@ Volto para atualizar o meu progresso no curso: É bem provavel que eu vá demora
 ### Atualização de avanço do curso - 05 de Julho de 2023
 
 Depois de um bom tempo, volto para explicar a ausência de atividade tanto no meu perfil em geral, quanto no progresso do curso. Durante o final do ultimo mês, tive uma gripe forte, devido ao frio intenso, que ocasionou em uma **otite** em meu ouvido, impedindo que eu me concentre nas atividades básicas e lições do curso e me impedindo também de continuar adicionando coisas ao meu perfil no GitHub, por isso se deu a falta de contribuições em meu perfil. Todavia, estive acompanhando um pouco mais das aulas do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA" target="_blank" rel="external">curso de Git e GitHub</a>, então, em breve, estarei atualizando o <a href="https://github.com/LucsasL/Git-e-GitHub-PTBR">repositório do curso</a>. Agora estou de volta, pronto para continuar as atividades propostas nos cursos que acompanho. Vam Bora!
+
+### Atualização de avanço do curso - 13 de Julho de 2023
+
+Após um bom tempo passando pelos ensinamentos do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">módulo 3</a> do ***curso de HTML e CSS do Curso em Vídeo***, passo a entender e concretizar os conceitos explorados em meus pequenos projetos, e acabo assim, Finalizando o módulo 3 do curso algum tempo depois. Aviso com antecedência que começarei a desenvolver os exercícicios do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT" target="_blank" rel="external">módulo 4</a> hoje mesmo. Em breve, o fim do módulo 4 também será alcançado, e então chegarei ao estado em que o curso está hoje, inacabado, porém estarei no aguardo pelo novo e ultimo módulo do curso (que por algum motivo não saiu ainda) para em fim afiar minhas habilidades no mercado.
