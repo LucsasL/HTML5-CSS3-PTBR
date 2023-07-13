@@ -76,6 +76,19 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
    * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20013/index.html" target="_blank" rel="external">Estilos inline,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20014/index.html" target="_blank" rel="external">internos</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20015/index.html" target="_blank" rel="external">externos;</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a>
+
+   * Cores (<a href=""  target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2,</a> <a href="" target="_blank" rel="external">EX 3</a>);
+
+   * Fontes (<a href="" target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2,</a> <a href="" target="_blank" rel="external">EX 3,</a> <a href="" target="_blank" rel="external">EX 4</a>);
+
+   * <a href="" target="_blank" rel="external">Seletores;</a>
+
+   * <a href="" target="_blank" rel="external">Hover,</a> <a href="" target="_blank" rel="external">Links</a> e <a href="" target="_blank" rel="external">Pseudoclasses;</a>
+
+   * Caixas (<a href="" target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2</a>);
+
+   * <a href="" target="_blank" rel="external">Bordas;</a>
+
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/Hall%20exerc%C3%ADcios%203.html" target="_self" rel="next">Exercícios módulo 3</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a>
