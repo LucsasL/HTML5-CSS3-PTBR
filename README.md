@@ -73,7 +73,7 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
    * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20012/index.html" target="_blank" rel="external">Vídeos internos e externos;</a>
 
-   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20013/index.html" target="_blank" rel="external">Estilos inline,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20014/index.html" target="_blank" rel="external">internos</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20015/index.html" target="_blank" rel="external">externos;</a>
+   <a href="">* <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20013/index.html" target="_blank" rel="external">Estilos inline,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20014/index.html" target="_blank" rel="external">internos</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20015/index.html" target="_blank" rel="external">externos.</a></a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a>
 
@@ -89,9 +89,22 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
    * Caixas (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20007/caixa001.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20008/caixas002.html" target="_blank" rel="external">EX 2</a>);
 
-   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20009/borda003.html" target="_blank" rel="external">Bordas;</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20009/borda003.html" target="_blank" rel="external">Bordas.</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/Hall%20exerc%C3%ADcios%203.html" target="_self" rel="next">Exercícios módulo 3</a>
+
+   * Fundo (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20001.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20002.html" target="_blank" rel="external">EX 2,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20003.html" target="_blank" rel="external">EX 3,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20004.html" target="_blank" rel="external">EX 4,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20005.html" target="_blank" rel="external">EX 5,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20006.html" target="_blank" rel="external">EX 6,</a> <a href="" target="_blank" rel="external">EX 7</a>);
+
+   * <a href="" target="_blank" rel="external">Tabelas;</a>
+
+   * <a href="" target="_blank" rel="external">Tabelas grandes;</a>
+
+   * <a href="" target="_blank" rel="external">Mesclagem de células;</a>
+
+   * <a href="" target="_blank" rel="external">Exercícios de tabelas;</a>
+
+   * <a href="" target="_blank" rel="external">Tabela responsiva.</a>
+
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a>
 
