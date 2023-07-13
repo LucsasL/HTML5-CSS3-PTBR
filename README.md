@@ -49,7 +49,31 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%201/Hall%20exerc%C3%ADcios%201.html" target="_self" rel="next">Exercícios módulo 1</a>
 
-   * <a href="" target="" rel=""></a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20001/index.html" target="_blank" rel="external">Criando seu primeiro documento HTML e estrutura do código básico;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20002/index.html" target="_blank" rel="external">Paragrafos e quebras de linha/símbolos e emojis em seu site;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20003/index.html" target="_blank" rel="external">Introdução a aplicação de imagens;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20004/index.html" target="_blank" rel="external">Favicon;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20005/index.html" target="_blank" rel="external">Hierarquia de títulos;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20006/html5.html" target="_blank" rel="external">Tag Adress;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20007/index.html" target="_blank" rel="external">Tags de formatação de texto;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20008/index.html" target="_blank" rel="external">Citações e códigos;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20009/index.html" target="_blank" rel="external">Listas em HTML;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20010/index.html" target="_blank" rel="external">Link, âncoras e downloads;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20011/index.html" target="_blank" rel="external">Imagens dinâmicas e áudios;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20012/index.html" target="_blank" rel="external">Vídeos internos e externos;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20013/index.html" target="_blank" rel="external">Estilos inline,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20014/index.html" target="_blank" rel="external">internos</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20015/index.html" target="_blank" rel="external">externos;</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/Hall%20exerc%C3%ADcios%203.html" target="_self" rel="next">Exercícios módulo 3</a>
