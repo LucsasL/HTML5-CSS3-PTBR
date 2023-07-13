@@ -95,15 +95,15 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
    * Fundo (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20001.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20002.html" target="_blank" rel="external">EX 2,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20003.html" target="_blank" rel="external">EX 3,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20004.html" target="_blank" rel="external">EX 4,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20005.html" target="_blank" rel="external">EX 5,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2001/fundo%20006.html" target="_blank" rel="external">EX 6,</a> <a href="" target="_blank" rel="external">EX 7</a>);
 
-   * <a href="" target="_blank" rel="external">Tabelas;</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20001.html" target="_blank" rel="external">Tabelas;</a>
 
-   * <a href="" target="_blank" rel="external">Tabelas grandes;</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20002.html" target="_blank" rel="external">Tabelas grandes;</a>
 
-   * <a href="" target="_blank" rel="external">Mesclagem de células;</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20003.html" target="_blank" rel="external">Mesclagem de células;</a>
 
-   * <a href="" target="_blank" rel="external">Exercícios de tabelas;</a>
+   * Exercícios de tabelas (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20004.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20005.html" target="_blank" rel="external">EX 2,</a>);
 
-   * <a href="" target="_blank" rel="external">Tabela responsiva.</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20006.html" target="_blank" rel="external">Tabela responsiva.</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a>
