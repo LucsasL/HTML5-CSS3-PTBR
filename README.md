@@ -77,17 +77,19 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a>
 
-   * Cores (<a href=""  target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2,</a> <a href="" target="_blank" rel="external">EX 3</a>);
+   * Cores (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20001/cor001.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20001/cor002.html" target="_blank" rel="external">EX 2,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20001/cor003.html" target="_blank" rel="external">EX 3</a>);
 
-   * Fontes (<a href="" target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2,</a> <a href="" target="_blank" rel="external">EX 3,</a> <a href="" target="_blank" rel="external">EX 4</a>);
+   * Fontes (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20002/fonte001.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20003/fonte001.html" target="_blank" rel="external">EX 2,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20003/fonte002.html" target="_blank" rel="external">EX 3,</a>);
 
-   * <a href="" target="_blank" rel="external">Seletores;</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20004/fontes001.html" target="_blank" rel="external">Alinhamento;</a>
 
-   * <a href="" target="_blank" rel="external">Hover,</a> <a href="" target="_blank" rel="external">Links</a> e <a href="" target="_blank" rel="external">Pseudoclasses;</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20005/seletor001.html" target="_blank" rel="external">Seletores;</a>
 
-   * Caixas (<a href="" target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2</a>);
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20006/pseudoclasse.html" target="_blank" rel="external">Pseudoclasses,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20006/hover.html" target="_blank" rel="external">Hover</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20006/links.html" target="_blank" rel="external">Links;</a>
 
-   * <a href="" target="_blank" rel="external">Bordas;</a>
+   * Caixas (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20007/caixa001.html" target="_blank" rel="external">EX 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20008/caixas002.html" target="_blank" rel="external">EX 2</a>);
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%202/Exercício%20009/borda003.html" target="_blank" rel="external">Bordas;</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%203/Hall%20exerc%C3%ADcios%203.html" target="_self" rel="next">Exercícios módulo 3</a>
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a>
