@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionando conteúdos</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        main {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        div.video {
+            position: relative;
+            padding: 20px;
+            padding-bottom: 59%;
+        }
+
+        div > iframe {
+            position: absolute;
+            top: 5%;
+            left: 5%;
+            width: 90%;
+        }
+    </style>
+</head>
+<body>
+    
+    <main>
+        <h1>
+            Conteúdos dentro de iframes
+        </h1>
+
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat enim ea ullam inventore. Beatae earum reiciendis esse natus. Tempore et laboriosam labore aperiam fuga corporis eveniet aut rem repellat facere.
+        </p>
+
+        <h2>
+            Vídeos
+        </h2>
+
+        <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/NNOiacSQoxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+
+        <h2>
+            Mapas do google
+        </h2>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3737999.0481477813!2d-48.7729613375!3d-23.804737799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5bcd8848f97b%3A0x23dbde33397dcebc!2sHostnet%20-%20S%C3%A3o%20Bernardo%20do%20Campo%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1689408766707!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        <h2>
+            Mapas do waze
+        </h2>
+
+        <iframe src="https://embed.waze.com/iframe?zoom=16&lat=-22.902449&lon=-43.174591&ct=livemap" width="600" height="450" allowfullscreen></iframe>
+
+        <h2>
+            Google document
+        </h2>
+
+        <iframe src="https://docs.google.com/document/d/e/2PACX-1vQ5yrshQLl42HYrC6rKe4SLfOuE0P_nMTbeX9qdhcQi0EmhDXgqexKZXmC-WociIBGszSqse9iRo-cN/pub?embedded=true"></iframe>
+
+    </main>
+
+</body>
+</html>
