@@ -114,6 +114,9 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
    * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%203/Exercício%2002/Tabela%20006.html" target="_blank" rel="external">Tabela responsiva.</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%204/Hall%20exerc%C3%ADcios%204.html" target="_self" rel="next">Exercícios módulo 4</a>
+
+   * Iframes (<a href="" target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2,</a> <a href="" target="_blank" rel="external">EX 3,</a> <a href="" target="_blank" rel="external">EX 4,</a> <a href="" target="_blank" rel="external">EX 5,</a> <a href="" target="_blank" rel="external">EX 6</a>)
+
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a>
 
 <hr>
