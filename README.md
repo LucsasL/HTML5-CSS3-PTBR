@@ -121,11 +121,43 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 <hr>
 
-- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%201/Hall%20desafios%201.html" target="_self" rel="next">Desafio módulo 1</a>
-- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafios%202.html" target="_self" rel="next">Desafio módulo 2</a>
-- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/Hall%20desafios%203.html" target="_self" rel="next">Desafio módulo 3</a>
-- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/Hall%20desafios%204.html" target="_self" rel="next">Desafio módulo 4</a>
-- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/Hall%20desafios%205.html" target="_self" rel="next">Desafio módulo 5</a>
+- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%201/Hall%20desafios%201.html" target="_self" rel="next">Desafios módulo 1</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%201/index.html" target="_blank" rel="external">Desafio das mensagens;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%202/index.html" target="_blank" rel="external">Desafio das imagens;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%203/index.html" target="_blank" rel="external">Desafio do mapa;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%204/index.html" target="_blank" rel="external">Desafio dos emojis;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%205/index.html" target="_blank" rel="external">Desafio links externos;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%206/index.html" target="_blank" rel="external">Desafio das tags (abbr);</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%207/index.html" target="_blank" rel="external">Desafio das imagens flexíveis;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%208/index.html" target="_blank" rel="external">Desafio da navegação;</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%201/Desafio%209/index.html" target="_blank" rel="external">Desafio dos cursos.</a>
+
+- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafios%202.html" target="_self" rel="next">Desafios módulo 2</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%202/Desafio%2010/android.html" target="_blank" rel="external">Desafio Android</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%202/Desafio%2011/index.html" target="_blank" rel="external">Desafio do Astronauta</a>
+
+- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/Hall%20desafios%203.html" target="_self" rel="next">Desafios módulo 3</a>
+
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2012/index.html" target="_blank" rel="external">Desafio do Cordel</a>
+
+   * Desafio das tabelas (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2013/Desafio%20tabela%201.html" target="_blank" rel="external">D 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2013/Desafio%20tabela%202.html" target="_blank" rel="external">D 2,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2013/Desafio%20Tabela%203.html" target="_blank" rel="external">D 3</a>)
+
+- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/Hall%20desafios%204.html" target="_self" rel="next">Desafios módulo 4</a>
+
+   * <a href="" target="_blank" rel="external"></a>
+
+- <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/Hall%20desafios%205.html" target="_self" rel="next">Desafios módulo 5</a>
 
 ## Atualizações
 
