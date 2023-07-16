@@ -57,7 +57,39 @@ section#redes-sociais img:hover {
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.400);
 
+    transition: transform .3s;
+}
+
+img#home:hover {
     border: 2px solid rgba(255, 255, 255, 0.673);
 
-    transition: transform .3s;
+    transition: border .3s;
+}
+
+img#red:hover {
+    border: 2px solid rgb(255, 102, 102);
+
+    transition: border .3s;
+}
+
+img#green:hover {
+    border: 2px solid lightgreen;
+
+    transition: border .3s;
+}
+
+img#purple:hover {
+    border: 2px solid rgb(255, 186, 255);
+}
+
+img#light-blue:hover {
+    border: 2px solid rgb(222, 247, 255);
+
+    transition: border .3s;
+}
+
+img#blue:hover {
+    border: 2px solid rgb(165, 165, 255);
+
+    transition: border .3s;
 }
