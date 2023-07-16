@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+:root {
+
+}
+
+body {
+    background: black url('../imagens/fundo-madeira.jpg') center center fixed;
+}
+
+div#celular {
+    width: 300px;
+    margin: auto;
+}
+
+div > iframe {
+    width: auto;
+    height: auto;
+}
