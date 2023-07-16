@@ -143,13 +143,13 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 - <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%202/Hall%20desafios%202.html" target="_self" rel="next">Desafios módulo 2</a>
 
-   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%202/Desafio%2010/android.html" target="_blank" rel="external">Desafio Android</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%202/Desafio%2010/android.html" target="_blank" rel="external">Desafio Android;</a>
 
-   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%202/Desafio%2011/index.html" target="_blank" rel="external">Desafio do Astronauta</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%202/Desafio%2011/index.html" target="_blank" rel="external">Desafio do Astronauta.</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%203/Hall%20desafios%203.html" target="_self" rel="next">Desafios módulo 3</a>
 
-   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2012/index.html" target="_blank" rel="external">Desafio do Cordel</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2012/index.html" target="_blank" rel="external">Desafio do Cordel;</a>
 
    * Desafio das tabelas (<a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2013/Desafio%20tabela%201.html" target="_blank" rel="external">D 1,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2013/Desafio%20tabela%202.html" target="_blank" rel="external">D 2,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%203/Desafio%2013/Desafio%20Tabela%203.html" target="_blank" rel="external">D 3</a>)
 
