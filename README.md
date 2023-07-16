@@ -155,7 +155,7 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 - <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%204/Hall%20desafios%204.html" target="_self" rel="next">Desafios módulo 4</a>
 
-   * <a href="" target="_blank" rel="external">Desafio das redes sociais</a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Desafios/Módulo%204/Desafio%2014/index.html" target="_blank" rel="external">Desafio das redes sociais</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Desafios/M%C3%B3dulo%205/Hall%20desafios%205.html" target="_self" rel="next">Desafios módulo 5</a>
 
