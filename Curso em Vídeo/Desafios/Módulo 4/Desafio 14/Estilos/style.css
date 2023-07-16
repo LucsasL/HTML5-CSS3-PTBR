@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+:root {
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black url('../imagens/fundo-madeira.jpg') center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+main {
+    height: 100vh;
+    position: relative;
+}
+
+section#celular {
+    width: 311px;
+    height: 627px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: url('../imagens/frame-iphone.png') center center no-repeat fixed;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+}
