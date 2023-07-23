@@ -2,8 +2,78 @@
 
 /* Todas as demais mídias */
 
+/* Typical Device Breakpoints
+----------------------------------------------
+
+Pequenas telas: até 600px;
+Celular: de 600px até 768px;
+Tablet: 768px até 992px;
+Desktop: 992px até 1200px;
+Grandes telas: acima de 1200px.
+*/
+
 @media print {
     * {
         
+    }
+
+    body {
+        background-image: url('../Imagens/back-print.jpg'); /* DESNECESSÁRIO*/
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    main {
+        border: 2px solid black;
+    }
+
+    main::after {
+        content: 'Essa impressão foi feita através do site Lucsas';
+    }
+
+    img#print { display: block; }
+    img#tablet { display: none; }
+    img#phone { display: none; }
+    img#pc { display: none; }
+    img#tv { display: none; }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) { /* TABLET*/
+    body {
+        background-image: url('../Imagens/back-tablet.jpg');
+    }
+
+    img#tablet { display: block; }
+    img#phone { display: none; }
+    img#print { display: none; }
+    img#pc { display: none; }
+    img#tv { display: none; }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) { /* DESKTOP */
+    body {
+        background-image: url('../Imagens/back-pc.jpg');
+    }
+
+    img#pc { display: block; }
+    img#tablet { display: none; }
+    img#print { display: none; }
+    img#phone { display: none; }
+    img#tv { display: none; }
+}
+
+@media screen and (min-width: 1200px) { /* GRANDES TELAS */
+    body {
+        background-image: url('../Imagens/back-tv.jpg');
+    }
+
+    img#tv { display: block; }
+    img#tablet { display: none; }
+    img#print { display: none; }
+    img#pc { display: none; }
+    img#phone { display: none; }
+
+    footer {
+        position: relative;
+        top: 451px;
     }
 }

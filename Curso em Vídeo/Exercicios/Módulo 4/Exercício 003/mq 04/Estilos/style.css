@@ -48,3 +48,24 @@ img#tablet { display: none; }
 img#print { display: none; }
 img#pc { display: none; }
 img#tv { display: none; }
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    position: relative;
+    top: 440px;
+
+    padding: 10px
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
