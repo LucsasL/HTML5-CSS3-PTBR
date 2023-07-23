@@ -9,6 +9,8 @@
 
     <link rel="stylesheet" href="style.css" media="all">
     <link rel="stylesheet" href="media-query.css">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
     
@@ -17,7 +19,9 @@
             Meu site
         </h1>
 
-        <menu>
+        <i id="burger" class="material-icons" onclick="clickMenu()">menu</i>
+
+        <menu id="itens">
             <ul>
                 <li><a href="#">Opção 1</a></li>
                 <li><a href="#">Opção 2</a></li>
@@ -53,7 +57,19 @@
     </main>
 
     <footer>
-
+        <p>
+            Site criado por <a href="https://github.com/lucsasl" target="_self" rel="prev">Lucsas</a> durante estudos no <a href="http://cursoemvideo.com" target="_blank" rel="noopener noreferrer">CursoemVídeo.</a>
+        </p>
     </footer>
+
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                    itens.style.display = 'none'
+                } else {
+                    itens.style.display = 'block'
+                }
+        }
+    </script>
 </body>
 </html>
