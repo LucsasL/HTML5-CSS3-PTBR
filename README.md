@@ -109,6 +109,10 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
    * Iframes (<a href="" target="_blank" rel="external">EX 1,</a> <a href="" target="_blank" rel="external">EX 2,</a> <a href="" target="_blank" rel="external">EX 3,</a> <a href="" target="_blank" rel="external">EX 4,</a> <a href="" target="_blank" rel="external">EX 5,</a> <a href="" target="_blank" rel="external">EX 6</a>)
 
+   * Formulários (<a href="" target="_blank" rel="noopener noreferrer">EX 1,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 2,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 3,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 4,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 5,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 6,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 7,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 8,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 9,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 10</a>)
+
+   * Media Query (<a href="" target="_blank" rel="noopener noreferrer">EX 1,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 2,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 3,</a> <a href="" target="_blank" rel="noopener noreferrer">EX 4</a>)
+
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%205/Hall%20exerc%C3%ADcios%205.html" target="_self" rel="next">Exercícios módulo 5</a>
 
 <hr>
