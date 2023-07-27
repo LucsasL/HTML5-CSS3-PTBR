@@ -11,7 +11,7 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 ### Nesse curso, os seguintes tópicos seram explorados:
 
-<div align="left">
+<div align="left" width="50%">
    - <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1:</a>
       * Conceitos básicos;
       * preparação do ambiente;
@@ -32,7 +32,7 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
       * Responsividade.
 </div>
 
-<div align="right">
+<div align="right" width="50%">
    - <a href="https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">Módulo 3:</a>
       * Versionamento de software;
       * Hospedagem de sites estáticos;
