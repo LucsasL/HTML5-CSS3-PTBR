@@ -11,43 +11,39 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 ### Nesse curso, os seguintes tópicos seram explorados:
 
-<div align="left" width="50%">
-   - <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1:</a>
-      * Conceitos básicos;
-      * preparação do ambiente;
-      * semântica da HTML5;
-      * textos;
-      * títulos;
-      * ligações;
-      * multimídia;
-      * estilos.
-   
-   - <a href="https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s" target="_blank" rel="external">Módulo 2:</a>
-      * Fundamentos do design;
-      * Psicologia das cores;
-      * Tipografia;
-      * Elementos CSS;
-      * Modelo de caixas;
-      * Wireframe;
-      * Responsividade.
-</div>
+- <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1:</a>
+   * Conceitos básicos;
+   * preparação do ambiente;
+   * semântica da HTML5;
+   * textos;
+   * títulos;
+   * ligações;
+   * multimídia;
+   * estilos.
 
-<div align="right" width="50%">
-   - <a href="https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">Módulo 3:</a>
-      * Versionamento de software;
-      * Hospedagem de sites estáticos;
-      * Tabelas.
-   
-   - <a href="https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT" target="_blank" rel="external">Módulo 4:</a>
-      * Quadros em linha;
-      * Formulários;
-      * Media queries;
-      * Mobile first.
-   
-   - Módulo 5:
-      * Flexbox; e
-      * Grid Layout.
-</div>
+- <a href="https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s" target="_blank" rel="external">Módulo 2:</a>
+   * Fundamentos do design;
+   * Psicologia das cores;
+   * Tipografia;
+   * Elementos CSS;
+   * Modelo de caixas;
+   * Wireframe;
+   * Responsividade.
+
+- <a href="https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">Módulo 3:</a>
+   * Versionamento de software;
+   * Hospedagem de sites estáticos;
+   * Tabelas.
+
+- <a href="https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT" target="_blank" rel="external">Módulo 4:</a>
+   * Quadros em linha;
+   * Formulários;
+   * Media queries;
+   * Mobile first.
+
+- Módulo 5:
+   * Flexbox; e
+   * Grid Layout.
 
 ## Documentos
 
