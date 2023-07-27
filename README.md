@@ -11,39 +11,43 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
 ### Nesse curso, os seguintes tópicos seram explorados:
 
-- <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1:</a>
-   * Conceitos básicos;
-   * preparação do ambiente; 
-   * semântica da HTML5; 
-   * textos; 
-   * títulos; 
-   * ligações; 
-   * multimídia; 
-   * estilos.
+<div align="left">
+   - <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1:</a>
+      * Conceitos básicos;
+      * preparação do ambiente;
+      * semântica da HTML5;
+      * textos;
+      * títulos;
+      * ligações;
+      * multimídia;
+      * estilos.
+   
+   - <a href="https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s" target="_blank" rel="external">Módulo 2:</a>
+      * Fundamentos do design;
+      * Psicologia das cores;
+      * Tipografia;
+      * Elementos CSS;
+      * Modelo de caixas;
+      * Wireframe;
+      * Responsividade.
+</div>
 
-- <a href="https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s" target="_blank" rel="external">Módulo 2:</a>
-   * Fundamentos do design;
-   * Psicologia das cores;
-   * Tipografia;
-   * Elementos CSS;
-   * Modelo de caixas;
-   * Wireframe;
-   * Responsividade.
-
-- <a href="https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">Módulo 3:</a>
-   * Versionamento de software;
-   * Hospedagem de sites estáticos;
-   * Tabelas.
-
-- <a href="https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT" target="_blank" rel="external">Módulo 4:</a>
-   * Quadros em linha;
-   * Formulários;
-   * Media queries;
-   * Mobile first.
-
-- Módulo 5:
-   * Flexbox; e 
-   * Grid Layout.
+<div align="right">
+   - <a href="https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ" target="_blank" rel="external">Módulo 3:</a>
+      * Versionamento de software;
+      * Hospedagem de sites estáticos;
+      * Tabelas.
+   
+   - <a href="https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT" target="_blank" rel="external">Módulo 4:</a>
+      * Quadros em linha;
+      * Formulários;
+      * Media queries;
+      * Mobile first.
+   
+   - Módulo 5:
+      * Flexbox; e
+      * Grid Layout.
+</div>
 
 ## Documentos
 
@@ -183,3 +187,9 @@ Em breve voltarei a contribuir no repositório do curso de Git e GitHub, na qual
 Infelizmente, o módulo 5 do curso ainda não saiu, embora o Gustavo Guanabara tenha dito que o módulo já estava por vir, nós ainda não tivemos nem um sinal de sua chegada. Entretanto, estarei no aguardo, e com certeza farei os exercícios dos módulos assim que os mesmos saírem.
 
 Enquanto o quinto módulo do curso não sai, estarei ampliando meu repertório nas linguagens de marcação, explorando diferentes frameworks, livros e outros cursos menores, além de acompanhar e desenvolver as habilidades de HTML e CSS através dos artigos do ***Consórcio W3C.***
+
+# HTML - Curso de 2013
+
+Após finalizar os módulos presentes no <a href="" target="_blank" rel="noopener noreferrer">curso de HTML e CSS,</a> não estive satisfeito com a quantidade de informações que me foram passadas e resolvi ir atrás de mais, e meu primeiro passo pra isso será estudando a versão antiga, que embora seja uma versão antiga do atual curso, me interessei em disseca-la, e expandir o que pude fazer com as informações demonstradas no curso.
+
+## Documentos
