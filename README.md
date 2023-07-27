@@ -188,4 +188,8 @@ Enquanto o quinto módulo do curso não sai, estarei ampliando meu repertório n
 
 Após finalizar os módulos presentes no <a href="" target="_blank" rel="noopener noreferrer">curso de HTML e CSS,</a> não estive satisfeito com a quantidade de informações que me foram passadas e resolvi ir atrás de mais, e meu primeiro passo pra isso será estudando a versão antiga, que embora seja uma versão antiga do atual curso, me interessei em disseca-la, e expandir o que pude fazer com as informações demonstradas no curso.
 
+## Conteúdo
+
+Como citado antes, o curso de HTML e CSS que estive estudando durante todo esse tempo era uma reestruturação do curso antigo, que se tratava em examinar as bases do HTML e iniciar o projeto do **Curso em Vídeo**, que é um ótimo canal para se iniciar os estudos a fundo da tecnologias presentes na computação, e assim como o projeto, o curso foi iniciado em 2013. Por conta de meus estudos não terem acabado, decidi utilizar esse curso como segundo passo na aprendizagem da principal linguagem de marcação. Aqui vou eu!
+
 ## Documentos
