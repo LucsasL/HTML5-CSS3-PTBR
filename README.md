@@ -73,7 +73,7 @@ Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos d
 
    * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20012/index.html" target="_blank" rel="external">Vídeos internos e externos;</a>
 
-   <a href="">* <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20013/index.html" target="_blank" rel="external">Estilos inline,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20014/index.html" target="_blank" rel="external">internos</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20015/index.html" target="_blank" rel="external">externos.</a></a>
+   * <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20013/index.html" target="_blank" rel="external">Estilos inline,</a> <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20014/index.html" target="_blank" rel="external">internos</a> e <a href="https://lucsasl.github.io/HTML5-CSS3-PTBR/Curso%20em%20Vídeo/Exercicios/Módulo%201/Exercício%20015/index.html" target="_blank" rel="external">externos.</a>
 
 - <a href="Curso%20em%20V%C3%ADdeo/Exercicios/M%C3%B3dulo%202/Hall%20exerc%C3%ADcios%202.html" target="_self" rel="next">Exercícios módulo 2</a>
 
