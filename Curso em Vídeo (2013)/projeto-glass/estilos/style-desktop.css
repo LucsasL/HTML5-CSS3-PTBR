@@ -14,3 +14,7 @@ header > ul > li {
 
     padding: 7px;
 }
+
+header > span.material-icons {
+    display: none;
+}

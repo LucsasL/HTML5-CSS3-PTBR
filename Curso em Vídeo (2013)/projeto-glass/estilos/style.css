@@ -4,6 +4,12 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+
+    font-size: 1em;
+}
+
+::-webkit-scrollbar {
+    display: none;
 }
 
 body {
@@ -15,8 +21,22 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    font-size: 1.7em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
 div#interface {
-    width: 90vw;
+    width: 80vw;
     margin: auto;
 
     box-shadow: 0px 0px 5px black;
@@ -26,9 +46,9 @@ header {
     background-color: white;
 
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
 
-    width: 90vw;
+    width: 80vw;
     margin: auto;
     padding: 20px;
 }
@@ -37,6 +57,12 @@ header a {
     color: white;
     font-weight: bolder;
     text-decoration: none;
+
+    padding: 7px 9px;
+}
+
+header ul > li > a:hover {
+    background-color: rgb(78, 78, 78);
 }
 
 header > ul > li {
@@ -52,18 +78,15 @@ header > ul > li {
 main {
     background-color: white;
 
-    width: 90vw;
+    width: 80vw;
     margin: auto;
     padding: 20px;
-}
-
-h1.main-h1 {
-
 }
 
 div.table {
     width: 100%;
     overflow-x: scroll;
+    margin: auto;
 }
 
 table {
@@ -72,7 +95,35 @@ table {
     margin: 5px;
 }
 
+table > caption {
+    display: none;
+}
+
 th, td {
     border: 1px solid black;
     padding: 5px;
+}
+
+div.video {
+    background-color: blue;
+    width: 80vw;
+    padding-bottom: 59%;
+
+    position: relative;
+    margin-left: -20px;
+    margin-right: 20px;
+}
+
+div.video > video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    bottom: 5%;
+
+    width: 90%;
+    height: 90%;
 }
