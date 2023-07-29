@@ -5,3 +5,12 @@
     padding: 0px;
 }
 
+header > ul > li {
+    background-color: gray;
+    color: white;
+
+    display: inline-block;
+    list-style-type: none;
+
+    padding: 7px;
+}
