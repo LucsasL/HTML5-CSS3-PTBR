@@ -195,4 +195,6 @@ Como citado antes, o curso de HTML e CSS que estive estudando durante todo esse 
 
 ## Documentos
 
-- <a href="Curso em Vídeo (2013)/projeto-ola-mundo/maldicao.html" target="_blank" rel="noopener noreferrer">Olá, mundo!</a>
+- <a href="Curso em Vídeo (2013)/projeto-ola-mundo/maldicao.html" target="_blank" rel="noopener noreferrer">Olá, mundo!;</a>
+
+- <a href="Curso em Vídeo (2013)/projeto-glass/index.html" target="_blank" rel="noopener noreferrer">Projeto Google Glass.</a>
