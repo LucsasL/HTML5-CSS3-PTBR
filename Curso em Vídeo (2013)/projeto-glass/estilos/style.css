@@ -32,14 +32,18 @@ h2 {
 p {
     margin-top: 5px;
     margin-bottom: 15px;
+
     text-align: justify;
+    text-indent: 30px;
+}
+
+span.bold {
+    font-weight: bold;
 }
 
 div#interface {
-    width: 80vw;
+    width: 100vw;
     margin: auto;
-
-    box-shadow: 0px 0px 5px black;
 }
 
 header {
@@ -48,9 +52,11 @@ header {
     display: flex;
     justify-content: space-between;
 
-    width: 80vw;
+    width: 100vw;
     margin: auto;
     padding: 20px;
+
+    border-bottom: 2px solid black;
 }
 
 header a {
@@ -75,24 +81,33 @@ header > ul > li {
     padding: 7px;
 }
 
+header img {
+    float: right;
+}
+
 main {
     background-color: white;
 
-    width: 80vw;
+    width: 100vw;
     margin: auto;
     padding: 20px;
 }
 
 div.table {
-    width: 100%;
-    overflow-x: scroll;
+    min-width: 100%;
+    min-height: 160px;
     margin: auto;
+
+    position: relative;
 }
 
 table {
     border-collapse: collapse;
-    width: 600px;
-    margin: 5px;
+    width: 80%;
+
+    position: absolute;
+    top: 5%;
+    left: 10%;
 }
 
 table > caption {
@@ -106,7 +121,8 @@ th, td {
 
 div.video {
     background-color: blue;
-    width: 80vw;
+    width: 100%;
+    margin: 0 -30px;
     padding-bottom: 59%;
 
     position: relative;
