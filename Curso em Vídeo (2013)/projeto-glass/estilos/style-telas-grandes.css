@@ -37,3 +37,7 @@ main {
     margin: auto;
     padding: 20px;
 }
+
+div.video {
+    width: 100%;
+}
