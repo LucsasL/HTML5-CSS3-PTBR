@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+
+/* Formatação gerais */
 * {
     margin: 0px;
     padding: 0px;
@@ -8,6 +10,7 @@
     font-size: 1em;
 }
 
+/* Formatações de página */
 ::-webkit-scrollbar {
     display: none;
 }
@@ -21,6 +24,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Formatações de textos */
 h1 {
     font-size: 1.7em;
 }
@@ -30,7 +34,7 @@ h2 {
 }
 
 p {
-    margin-top: 5px;
+    margin-top: 10px;
     margin-bottom: 15px;
 
     text-align: justify;
@@ -41,6 +45,7 @@ span.bold {
     font-weight: bold;
 }
 
+/* Formatações de caixas */
 div#interface {
     width: 100vw;
     margin: auto;
@@ -143,6 +148,22 @@ div.video > video {
     height: 90%;
 }
 
+/* Formatações de mídia */
+figure.foto-legenda {
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+}
+
+figure.foto-legenda img {
+    width: 100%;
+    height: 100%;
+}
+
+figure.foto-legenda figcaption {
+    position: absolute;
+    top: 0;
+}
+
 footer {
     background-color: black;
     color: white;
@@ -152,6 +173,9 @@ footer {
 
 footer p {
     text-align: center;
+
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 footer a {
