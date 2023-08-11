@@ -61,10 +61,6 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 /* Formatações de caixas */
 div#interface {
     width: 100vw;
@@ -92,11 +88,7 @@ header a {
     padding: 7px 9px;
 }
 
-header ul > li > a:hover {
-    background-color: rgb(78, 78, 78);
-}
-
-header > ul > li {
+nav > ul > li {
     background-color: gray;
     color: white;
 
@@ -104,6 +96,12 @@ header > ul > li {
     list-style-type: none;
 
     padding: 7px;
+    cursor: pointer;
+}
+
+nav > ul > li:hover {
+    background-color: #606060;
+    transition-duration: .4s;
 }
 
 header img {
