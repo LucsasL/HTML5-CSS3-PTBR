@@ -27,10 +27,20 @@ body {
 /* Formatações de textos */
 h1 {
     font-size: 1.7em;
+
 }
 
 h2 {
     font-size: 1.3em;
+}
+
+.bg-gray-text {
+    background-color: rgb(197, 197, 197);
+    color: rgb(86, 86, 86);
+
+    padding: 5px; 
+    
+    margin-top: 5px;
 }
 
 p {
@@ -88,6 +98,12 @@ header > ul > li {
 
 header img {
     float: right;
+}
+
+nav > ul > li {
+    display: none;
+
+    list-style-type: none;
 }
 
 main {
@@ -148,6 +164,43 @@ div.video > video {
     height: 90%;
 }
 
+aside {
+    background-color: gray;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+aside > section.aside-section {
+    background-color: rgb(58, 58, 58);
+    color: white;
+
+    width: 95%;
+}
+
+aside > section#aside-video {
+    position: relative;
+    width: 95%;
+
+    padding-bottom: 59%;
+    margin: 10px;
+}
+
+aside > section#aside-video > video {
+    position: absolute;
+    top: 8%;
+    left: 5%;
+    bottom: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 90%;
+    height: 87%;
+}
+
 /* Formatações de mídia */
 figure.foto-legenda {
     border: 8px solid white;
@@ -168,7 +221,7 @@ figure.foto-legenda figcaption {
     transition: .5s;
 
     width: 100%;
-    height: 100%;
+    height: 99%;
     padding: 10px;
 
     position: absolute;
