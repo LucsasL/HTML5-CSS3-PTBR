@@ -43,16 +43,23 @@ main {
 div#main-reading {
     width: 60%;
 
-    border-top: 1px 1px 0px 0px solid black;
+    padding: 10px 20px;
+
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+
+div#aside-box {
+    width: 40%;
+
+    border-top: 1px solid black;
 }
 
 aside {
-    width: 40%;
+    width: 95%;
     height: auto;
 
     margin: 20px;
-
-    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.558);
 }
 
 div.video {
