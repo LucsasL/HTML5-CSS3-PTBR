@@ -165,7 +165,7 @@ div.video > video {
 }
 
 aside {
-    background-color: gray;
+    background-color: rgb(192, 192, 192);
 
     display: flex;
     flex-direction: column;
@@ -173,32 +173,30 @@ aside {
 }
 
 aside > section.aside-section {
-    background-color: rgb(58, 58, 58);
-    color: white;
-
     width: 95%;
 }
 
-aside > section#aside-video {
+section.aside-section h1 {
+    background-color: rgb(58, 58, 58);
+    color: white;
+
+    padding: 5px;
+    margin: 5px 0px;
+}
+
+aside > div#aside-video {
+    display: flex;
+    justify-content: center;
+
     position: relative;
-    width: 95%;
+    width: 100%;
 
     padding-bottom: 59%;
     margin: 10px;
 }
 
-aside > section#aside-video > video {
-    position: absolute;
-    top: 8%;
-    left: 5%;
-    bottom: 5%;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
+div#aside-video > video {
     width: 90%;
-    height: 87%;
 }
 
 /* Formatações de mídia */
