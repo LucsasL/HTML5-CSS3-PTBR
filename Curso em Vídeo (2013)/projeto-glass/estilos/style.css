@@ -55,6 +55,16 @@ span.bold {
     font-weight: bold;
 }
 
+a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 /* Formatações de caixas */
 div#interface {
     width: 100vw;

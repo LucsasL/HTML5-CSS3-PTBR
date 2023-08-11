@@ -13,7 +13,11 @@ header {
     width: 80vw;
 }
 
-header > ul > li {
+header nav > span.material-icons {
+    display: none;
+}
+
+nav > ul > li {
     background-color: gray;
     color: white;
 
