@@ -41,6 +41,11 @@ nav > ul > li:hover {
     transition-duration: .4s;
 }
 
+header figure {
+    position: absolute;
+    right: 14%;
+}
+
 div.main-container {
     width: 80vw;
     margin: auto;
