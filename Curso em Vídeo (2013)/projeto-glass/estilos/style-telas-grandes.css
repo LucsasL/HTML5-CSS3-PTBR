@@ -9,6 +9,10 @@ div#interface {
     width: 100vw;
 }
 
+div.main-container {
+    width: 80vw;
+}
+
 header {
     width: 80vw;
 }
@@ -18,13 +22,23 @@ header nav > span.material-icons {
 }
 
 nav > ul > li {
-    background-color: gray;
-    color: white;
+    background-color: #dddddd;
 
     display: inline-block;
     list-style-type: none;
 
     padding: 7px;
+}
+
+nav > ul > li:hover {
+    background-color: #606060;
+    color: white;
+    
+    -webkit-transition-duration: .4s;
+    -moz-transition-duration: .4s;
+    -o-transition-duration: .4s;
+    -ms-transition-duration: .4s;
+    transition-duration: .4s;
 }
 
 div.main-container {
@@ -43,6 +57,8 @@ main {
 
     display: flex;
     justify-content: space-evenly;
+
+    border: none;
 }
 
 div#main-reading {
