@@ -25,6 +25,18 @@ body {
 }
 
 /* Formatações de textos */
+header div.hgroup > h1 {
+    font-family: Arial;
+    font-size: 35px;
+    color: #606060;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
+}
+
+header div.hgroup > h2 {
+    font-size: 20px;
+    color: #888888;
+}
+
 h1 {
     font-size: 1.7em;
 
@@ -79,8 +91,11 @@ header {
     justify-content: space-between;
 
     width: 100vw;
+    height: 150px;
     margin: auto;
     padding: 20px;
+
+    background: url('../../../../../../Trabalhos Design/Designs prontos/Lucsas/Profile/Lucsas image for web.png') no-repeat 15px bottom ;
 }
 
 header a {
@@ -121,10 +136,6 @@ nav > ul > li:hover {
     transition-duration: .4s;
 }
 
-header img {
-    float: right;
-}
-
 nav > ul > li {
     display: none;
 
@@ -134,7 +145,7 @@ nav > ul > li {
 header figure {
     position: absolute;
 
-    top: 10%;
+    top: 13%;
     right: 5%;
 }
 
@@ -143,7 +154,7 @@ main {
     margin: auto;
     padding: 20px;
 
-    border-top: 1px solid black;
+    border-top: 1px solid #606060;
 }
 
 main a:hover {
