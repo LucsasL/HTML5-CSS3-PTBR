@@ -160,6 +160,7 @@ main {
     padding: 20px;
 
     border-top: 1px solid #606060;
+    border-bottom: 1px solid #606060;
 }
 
 main a:hover {
@@ -168,7 +169,7 @@ main a:hover {
 
 div.table {
     min-width: 100%;
-    min-height: 160px;
+    min-height: 220px;
     margin: auto;
 
     position: relative;
@@ -184,16 +185,26 @@ table {
 }
 
 table > caption {
-    display: none;
+    color: #606060;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
-th, td {
-    border: 1px solid black;
+td {
+    border: 1px solid #606060;
     padding: 5px;
+    background-color: #dddddd;
+}
+
+td.header-lateral {
+    background-color: #606060;
+    color: white;
+
+    text-align: right;
+    text
 }
 
 div.video {
-    background-color: blue;
     width: 100vw;
     margin: 25px -30px;
     padding-bottom: 59%;

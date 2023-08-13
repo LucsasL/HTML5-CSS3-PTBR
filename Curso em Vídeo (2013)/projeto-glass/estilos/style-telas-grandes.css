@@ -71,14 +71,16 @@ div#main-reading {
 
     padding: 10px 20px;
 
-    border-top: 1px solid black;
-    border-right: 1px solid black;
+    border-top: 1px solid #606060;
+    border-bottom: 1px solid #606060;
+    border-right: 1px solid #606060;
 }
 
 div#aside-box {
     width: 40%;
 
-    border-top: 1px solid black;
+    border-top: 1px solid #606060;
+    border-bottom: 1px solid #606060;
 }
 
 aside {
