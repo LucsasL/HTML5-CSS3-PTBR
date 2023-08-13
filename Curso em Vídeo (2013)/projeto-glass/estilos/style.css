@@ -188,6 +188,8 @@ table > caption {
     color: #606060;
     font-size: 1.2em;
     font-weight: bold;
+
+    padding: 2px;
 }
 
 td {
@@ -201,6 +203,7 @@ td.header-lateral {
     color: white;
 
     text-align: right;
+    vertical-align: top;
 }
 
 div.video {
