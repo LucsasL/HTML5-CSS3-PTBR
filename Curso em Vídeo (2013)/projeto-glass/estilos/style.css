@@ -193,6 +193,16 @@ table > caption {
     padding: 2px;
 }
 
+
+table > caption > span {
+    float: right;
+    font-size: 10px;
+    font-weight: bold;
+    vertical-align: bottom;
+
+    text-shadow: none;
+}
+
 td {
     border: 2px solid #606060;
     padding: 5px;
