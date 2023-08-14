@@ -54,7 +54,7 @@ div.main-container {
 }
 
 main {
-    background-color: white;
+    background-color: rgb(225, 225, 255);
 
     width: 80vw;
     margin: auto;
