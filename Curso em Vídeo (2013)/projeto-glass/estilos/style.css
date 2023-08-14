@@ -198,7 +198,7 @@ table > caption > span {
     float: right;
     font-size: 10px;
     font-weight: bold;
-    vertical-align: bottom;
+    margin-top: 10px;
 
     text-shadow: none;
 }
