@@ -8,7 +8,6 @@ Curso de HTML5 e CSS3 criado pelo professor <a href="https://github.com/gustavog
 
 Nesse repositório, desenvolvo exercícios e desafios presentes nos capítulos do <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">curso de HTML e CSS</a> do Curso em Vídeo, criado por <a href="https://www.cursoemvideo.com/blog/dicas/professor-gustavo-guanabara-conquista-o-1o-lugar-no-github/" target="_blank" rel="external">um dos mais renomados e atenciosos professores de tecnologia do mundo</a>, Gustavo Guanabara. Embora o curso apresente um material muito simples e direto, ele é essencial para a criação de habilidades e formação de novos programadores. Já não bastava o curso ser gratuito, ele ainda se atenta em informar e ajudar os profissionais de todas as maneiras possíveis, desde dicas para melhorar seu código, até indicar programas para ajudar em tarefas diversas, como manipulação de imagens e formatação de vídeos, para aperfeiçoar o conteúdo do site.
 
-
 ### Nesse curso, os seguintes tópicos seram explorados:
 
 - <a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" target="_blank" rel="external">Módulo 1:</a>
@@ -195,6 +194,22 @@ Como citado antes, o curso de HTML e CSS que estive estudando durante todo esse 
 
 ## Documentos
 
-- <a href="Curso em Vídeo (2013)/projeto-ola-mundo/maldicao.html" target="_blank" rel="noopener noreferrer">Olá, mundo!;</a>
+- Testes e documentos de estudo:
 
-- <a href="Curso em Vídeo (2013)/projeto-glass/index.html" target="_blank" rel="noopener noreferrer">Projeto Google Glass.</a>
+   * <a href="Curso em Vídeo (2013)/projeto-ola-mundo/maldicao.html" target="_blank" rel="noopener noreferrer">Olá, mundo!;</a>
+
+   * Teste de JavaScript
+
+      * <a href="Curso em Vídeo (2013)/testes-js/testejs01.html" target="_blank" rel="noopener noreferrer">Teste 1</a>
+
+      * <a href="Curso em Vídeo (2013)/testes-js/testejs02.html" target="_blank" rel="noopener noreferrer">Teste 2</a>
+
+- Projeto:
+
+   * <a href="Curso em Vídeo (2013)/projeto-glass/index.html" target="_blank" rel="noopener noreferrer">Projeto Google Glass.</a>
+
+## Atualizações
+
+### Primeira atualização e Quase fim do curso...? - 15 de Agosto de 2023
+
+Pelo visto eu esqueci de adicionar atualizações nesse segundo curso de HTML (lol), mas aqui estou, na _Aula 22_ e fazendo a primeira atualização de andamento do curso. Bem, como já relatei no [Repositório de JavaScript,](https://github.com/LucsasL/JavaScript-PTBR) já estou no caminho para estudar JavaScript nesse curso, tendo os meus primeiros exercícios da linguagem já criados, e páginas web basicamente finalizados... Por conta do curso ser basicamente o mesmo do [mais novo,](#conteúdo) acabei por não commitar meu progresso. Voltarei a atualizar o repositório quando acabar o curso, o que provavelmente vai acontecer ainda hoje. ;&#40;
