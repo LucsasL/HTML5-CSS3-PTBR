@@ -8,18 +8,30 @@
     </title>
 
     <script>
-        function acendeLampada() {
-            document.getElementById('luz').src = '../../../../../Repositórios/Git-e-GitHub-PTBR/Imagens/Git e Github design.png'
+        var quebrada = false
+
+        function mudaLampada(tipo) {
+            if (tipo == 1) {
+                arquivo = '../../Arquivos Gerais/Imagens/curso-de-html-css.png'
+            }
+
+            if (tipo == 2) {
+                arquivo = '../../../../../Repositórios/Git-e-GitHub-PTBR/Imagens/Git e Github design.png'                                          
+            }
+
+            if (tipo == 3) {
+                arquivo = '../../../../Estudos/JavaScript (PT-BR)/Imagens/JS design.png'
+
+            }
+            if (!quebrada) {
+                document.getElementById('luz').src = arquivo
+                
+                if (tipo == 3) {
+                    quebrada = true
+                }
+            }
         }
 
-        function apagaLampada() {
-            document.getElementById('luz').src = '../../Arquivos Gerais/Imagens/curso-de-html-css.png'
-        }
-
-
-        function quebraLampada() {
-            document.getElementById('luz').src = '../../../../Estudos/JavaScript (PT-BR)/Imagens/JS design.png'
-        }
     </script>
 </head>
 <body>
@@ -29,7 +41,7 @@
     </h1>
 
     <figure>
-        <img src="../../Arquivos Gerais/Imagens/curso-de-html-css.png" alt="&quot;Lâmpada&quot;" style="width: 90vw;" id="luz" onmousemove="acendeLampada()" onmouseout="apagaLampada()" onclick="quebraLampada()">
+        <img src="../../Arquivos Gerais/Imagens/curso-de-html-css.png" alt="&quot;Lâmpada&quot;" style="width: 90vw;" id="luz"  onmouseout="mudaLampada(1)" onmousemove="mudaLampada(2)" onclick="mudaLampada(3)">
     </figure>
 
 </body>
