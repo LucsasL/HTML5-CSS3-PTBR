@@ -76,6 +76,10 @@ div#main-reading {
     border-right: 1px solid #606060;
 }
 
+div#main-reading-spec {
+    width: 80vw;
+}
+
 div#aside-box {
     width: 40%;
 
