@@ -11,11 +11,11 @@ div#interface {
     box-shadow: 0px 0px 5px black;
 }
 
-header {
+header#page-header {
     width: 80vw;
 }
 
-header > ul > li {
+header#page-header > ul > li {
     background-color: gray;
     color: white;
 
@@ -25,7 +25,7 @@ header > ul > li {
     padding: 7px;
 }
 
-header > span.material-icons {
+header#page-header > span.material-icons {
     display: none;
 }
 

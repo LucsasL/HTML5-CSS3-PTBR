@@ -31,7 +31,7 @@ body {
 }
 
 /* Formatações de textos */
-header div.hgroup > h1 {
+header#page-header div.hgroup > h1 {
     font-family: 'Bubblegum Sans', sans-serif;
     font-size: 35px;
     color: #393939;
@@ -47,7 +47,7 @@ main div.hgroup > h1 {
     margin-bottom: 3px;
 }
 
-header div.hgroup > h2 {
+header#page-header div.hgroup > h2 {
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     color: #393939;
@@ -111,7 +111,7 @@ div.main-container {
     box-shadow: 1px 1px 4px black;
 }
 
-header {
+header#page-header {
     display: flex;
     justify-content: space-between;
 
@@ -123,7 +123,7 @@ header {
     background: url('../../../../../../Trabalhos Design/Designs prontos/Lucsas/Profile/Lucsas image for web.png') no-repeat 15px bottom ;
 }
 
-header a {
+header#page-header a {
     color: black;
     font-weight: bolder;
     text-decoration: none;
@@ -131,7 +131,7 @@ header a {
     padding: 7px 9px;
 }
 
-header a:hover {
+header#page-header a:hover {
     color: white;
 
     -webkit-transition-duration: .4s;
@@ -167,7 +167,7 @@ nav > ul > li {
     list-style-type: none;
 }
 
-header figure {
+header#page-header figure {
     position: absolute;
 
     top: 13%;

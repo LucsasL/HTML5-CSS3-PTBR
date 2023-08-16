@@ -13,11 +13,11 @@ div.main-container {
     width: 80vw;
 }
 
-header {
+header#page-header {
     width: 80vw;
 }
 
-header nav > span.material-icons {
+header#page-header nav > span.material-icons {
     display: none;
 }
 
@@ -41,7 +41,7 @@ nav > ul > li:hover {
     transition-duration: .4s;
 }
 
-header figure {
+header#page-header figure {
     position: absolute;
     right: 14%;
 }
