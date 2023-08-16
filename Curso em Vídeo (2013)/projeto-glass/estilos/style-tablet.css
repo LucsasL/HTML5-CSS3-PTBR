@@ -6,8 +6,7 @@
 }
 
 div#interface {
-    width: 80vw;
-    margin: auto;
+    width: 90vw;
 
     box-shadow: 0px 0px 5px black;
 }
@@ -31,10 +30,9 @@ header > span.material-icons {
 }
 
 main {
-    background-color: white;
+    background-color: #ddd;
 
     width: 80vw;
-    margin: auto;
     padding: 20px;
 }
 
