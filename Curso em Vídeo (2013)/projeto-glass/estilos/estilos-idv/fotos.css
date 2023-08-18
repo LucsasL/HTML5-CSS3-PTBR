@@ -25,7 +25,7 @@ ul#album-fotos li {
 }
 
 ul#album-fotos li:hover {
-    transition-duration: 1s;
+    transition: .7s all;
     scale: 1.3;
 }
 
@@ -52,31 +52,61 @@ ul#album-fotos li:hover:nth-child(span:hover) {
 }
 
 ul#album-fotos li#foto01 {
-    background: url('../../imagens/');
+    background: url('../../imagens/') center;
     background-size: cover;
+}
+
+ul#album-fotos li#foto01:hover {
+    background-position: 0;
+    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto02 {
-    background: url('../../imagens/');
+    background: url('../../imagens/') center;
     background-size: cover;
+}
+
+ul#album-fotos li#foto02:hover {
+    background-position: 0;
+    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto03 {
-    background: url('../../imagens/');
+    background: url('../../imagens/') center;
     background-size: cover;
+}
+
+ul#album-fotos li#foto03:hover {
+    background-position: 0;
+    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto04 {
-    background: url('../../imagens/');
+    background: url('../../imagens/') center;
     background-size: cover;
+}
+
+ul#album-fotos li#foto04:hover {
+    background-position: 0;
+    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto05 {
-    background: url('../../imagens/');
+    background: url('../../imagens/') center;
     background-size: cover;
 }
 
+ul#album-fotos li#foto05:hover {
+    background-position: 0;
+    background-size: 50% 50%;
+}
+
 ul#album-fotos li#foto06 {
-    background: url('../../imagens/');
+    background: url('../../imagens/') center;
     background-size: cover;
+}
+
+ul#album-fotos li#foto06:hover {
+    background-position: 0;
+    background-size: 50% 50%;
 }
