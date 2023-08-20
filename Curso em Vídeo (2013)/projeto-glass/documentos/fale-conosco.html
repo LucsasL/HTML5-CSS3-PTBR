@@ -9,13 +9,15 @@
 
     <link rel="stylesheet" href="../estilos/style.css" media="all">
 
-    <link rel="stylesheet" href="../estilos/style-tablet.css" media="screen and (min-width: 768px) and (max-width: 992px)">
+    <link rel="stylesheet" href="../estilos/estilos-idv/forms.css">
 
-    <link rel="stylesheet" href="../estilos/style-desktop.css" media="screen and (min-width: 992px) and (max-width: 1200px)">
+    <link rel="stylesheet" href="../estilos/media-queries/style-tablet.css" media="screen and (min-width: 768px) and (max-width: 992px)">
 
-    <link rel="stylesheet" href="../estilos/style-telas-grandes.css" media="screen and (min-width: 1200px)">
+    <link rel="stylesheet" href="../estilos/media-queries/style-desktop.css" media="screen and (min-width: 992px) and (max-width: 1200px)">
 
-    <link rel="stylesheet" href="../estilos/style-impressora.css" media="print">
+    <link rel="stylesheet" href="../estilos/media-queries/style-telas-grandes.css" media="screen and (min-width: 1200px)">
+
+    <link rel="stylesheet" href="../estilos/media-queries/style-impressora.css" media="print">
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -23,7 +25,7 @@
 </head>
 <body>
     <div id="interface">
-        <div id="main-interface">
+        <div class="main-container">
             <header id="page-header">
                 <div id="esquerda">
                     <div class="hgroup">
@@ -57,9 +59,168 @@
                 </nav>
             </header>
             <main>
-                <h1>
-                    Teste
-                </h1>
+                <article>
+                    <header>
+                        <div class="hgroup">
+                            <p>
+                                Fale conosco > Contato
+                            </p>
+                            <h1 class="main-h1">
+                                Formulário de Contato
+                            </h1>
+                            <p>
+                                Por <a href="" rel="Gustavo Guanabara" style="color: #393939;">Gustavo Guanabara</a>
+                            </p>
+                            <p id="up-data">
+                                Atualizado em 23/Abr/2023?
+                            </p>
+                        </div>
+                    </header>
+
+                    <form action="contato.js" method="post">
+                        <fieldset>
+                            <legend>
+                                Identificação do Usuário
+                            </legend>
+
+                            <div>
+                                <label for="cnome" id="usuario">Nome:</label>
+                                    <input type="text" name="tnome" id="cnome" placeholder="Nome completo" required size="20" maxlength="30">
+                            </div>
+
+                            <div>
+                                <label for="csenha">Senha:</label>
+                                    <input type="password" name="tsenha" id="csenha" placeholder="Sua senha" required minlength="8" size="20">
+                            </div>
+
+                            <div>
+                                <label for="">E-mail:</label>
+                                    <input type="email" name="temail" id="cemail" placeholder="Seu email" required>
+                            </div>
+
+                            <fieldset id="sexo">
+
+                                <legend>
+                                    Sexo:
+                                </legend>
+
+                                <input type="radio" name="tsexo" id="cm" required></input>
+                                    <label for="cm">Masculino</label>
+
+                                <input type="radio" name="tsexo" id="cf" required></input>
+                                    <label for="cf">Feminino</label>
+                            </fieldset>
+
+                            <div>
+                                <label for="">Data de Nascimento:</label>
+                                    <input type="date" name="tdatan" id="cdatan" required>
+                            </div>
+                        </fieldset>
+
+                        <fieldset id="endereco">
+                            <legend>
+                                Endereço do Usuário
+                            </legend>
+
+                            <div>
+                                <label for="">Logradouro:</label>
+                                    <input type="text" name="tlog" id="clog" placeholder="Rua, Av, Trav">
+                            </div>
+
+                            <div>
+                                <label for="">Número:</label>
+                                    <input type="number" name="tnumero" id="cnumero" min="0">
+                            </div>
+
+                            <div>
+                                <label for="">Estado:</label>
+                                    <select name="testado" id="cestado">
+                                        <option value="Selecione">Selecione estado</option>
+                                        <option value="AC">Acre</option>
+                                        <option value="AL">Alagoas</option>
+                                        <option value="AP">Amapá</option>
+                                        <option value="AM">Amazonas</option>
+                                        <option value="BA">Bahia</option>
+                                        <option value="CE">Ceará</option>
+                                        <option value="ES">Espírito Santo</option>
+                                        <option value="GO">Goiás</option>
+                                        <option value="MA">Maranhão</option>
+                                        <option value="MT">Mato Grosso</option>
+                                        <option value="MS">Mato Grosso do Sul</option>
+                                        <option value="MG">Minas Gerais</option>
+                                        <option value="PA">Pará</option>
+                                        <option value="PB">Paraíba</option>
+                                        <option value="PR">Paraná</option>
+                                        <option value="PE">Pernambuco</option>
+                                        <option value="PI">Piauí</option>
+                                        <option value="RJ">Rio de Janeiro</option>
+                                        <option value="RN">Rio Grande do Norte</option>
+                                        <option value="RS">Rio Grande do Sul</option>
+                                        <option value="RO">Rôndonia</option>
+                                        <option value="RR">Roraima</option>
+                                        <option value="SC">Santa Catarina</option>
+                                        <option value="SP">São Paulo</option>
+                                        <option value="SE">Sergipe</option>
+                                        <option value="TO">Tocantis</option>
+                                        <option value="DF">Distrito Federal</option>
+                                </select>
+                            </div>
+
+                            <div>
+                                <label for="">Cidade:</label>
+                                    <select name="tcidade" id="ccidade">
+                                        <option value="Cidade">Sumaré</option>
+                                        <option value="Teste">Teste</option>
+                                    </select>
+                            </div>
+                        </fieldset>
+
+                        <fieldset id="mensagem">
+                            <legend>
+                                Mensagem do Usuário
+                            </legend>
+
+                            <div>
+                                <label for="">Grau de Urgência:</label>
+                                    <input type="range" name="tgrau" id="cgrau">
+                            </div>
+
+                            <div>
+                                <label for="">Mensagem:</label> <br>
+                                    <textarea name="ttarea" id="ctarea" cols="30" rows="10" placeholder="Escreva sua mensagem"></textarea>
+                            </div>
+                        </fieldset>
+
+                        <fieldset id="pedido">
+                            <legend>
+                                Quero um Google Glass
+                            </legend>
+
+                            <div>
+                                <label for="">Cor:</label>
+                                    <input type="color" name="tcor" id="ccor">
+                            </div>
+
+                            <div>
+                                <label for="">Quantidade:</label>
+                                    <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto">
+                            </div>
+
+                            <div>
+                                <label for="">Preço total:</label>
+                                    <output>R$</output>
+                            </div>
+                        </fieldset>
+
+                        <div>
+                            <input type="submit" value="Enviar">
+                        </div>
+                    </form>
+
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nemo atque molestiae beatae laboriosam accusamus veritatis, est iste obcaecati reprehenderit minima corrupti aliquam numquam tempore cumque hic reiciendis quis unde.
+                    </p>
+                </article>
             </main>
         </div>
 

@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+div#tv-radio {
+    background: url('../../imagens/') no-repeat;
+    width: 80vw;
+    height: 580px;
+
+    margin: auto;
+}
+
+div#tiv-radio iframe {
+    display: block;
+
+    width: 440px;
+
+    position: relative;
+    top: 85px;
+    left: 90px;
+}
+
+audio#musica {
+    display: block;
+
+    position: relative;
+    top: 500px;
+    left: 575px;
+}

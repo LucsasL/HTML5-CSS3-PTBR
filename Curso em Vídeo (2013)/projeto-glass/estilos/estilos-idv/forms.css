@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+article header {
+    margin-bottom: 30px;
+}
+
+fieldset {
+    padding: 20px;
+}
+
+fieldset#sexo {
+    padding: 8px;
+}
+
+Input {
+    padding: 4px;
+    margin: 5px;
+}
