@@ -77,7 +77,7 @@
                         </div>
                     </header>
 
-                    <form action="contato.js" method="post">
+                    <form action="Scripts/.js" method="post" id="fContato">
                         <fieldset>
                             <legend>
                                 Identificação do Usuário
@@ -94,7 +94,7 @@
                             </div>
 
                             <div>
-                                <label for="">E-mail:</label>
+                                <label for="cemail">E-mail:</label>
                                     <input type="email" name="temail" id="cemail" placeholder="Seu email" required>
                             </div>
 
@@ -112,7 +112,7 @@
                             </fieldset>
 
                             <div>
-                                <label for="">Data de Nascimento:</label>
+                                <label for="cdatan">Data de Nascimento:</label>
                                     <input type="date" name="tdatan" id="cdatan" required>
                             </div>
                         </fieldset>
@@ -123,17 +123,17 @@
                             </legend>
 
                             <div>
-                                <label for="">Logradouro:</label>
+                                <label for="clog">Logradouro:</label>
                                     <input type="text" name="tlog" id="clog" placeholder="Rua, Av, Trav">
                             </div>
 
                             <div>
-                                <label for="">Número:</label>
+                                <label for="cnumero">Número:</label>
                                     <input type="number" name="tnumero" id="cnumero" min="0">
                             </div>
 
                             <div>
-                                <label for="">Estado:</label>
+                                <label for="cestado">Estado:</label>
                                     <select name="testado" id="cestado">
                                         <option value="Selecione">Selecione estado</option>
                                         <option value="AC">Acre</option>
@@ -167,12 +167,16 @@
                             </div>
 
                             <div>
-                                <label for="">Cidade:</label>
-                                    <select name="tcidade" id="ccidade">
-                                        <option value="Cidade">Sumaré</option>
-                                        <option value="Teste">Teste</option>
-                                    </select>
+                                <label for="ccidade">Cidade:</label>
+                                    <input type="text" name="tcidade" id="ccidade" placeholder="Sua Cidade" list=cidades>
                             </div>
+                            <datalist id="cidades">
+                                <option value="Rio de Janeiro"><span>Rio de Janeiro, </span>Rio de Janeiro</option>
+                                <option value="Nova Iguaçu"><span>Nova Iguaçu, </span>Rio de Janeiro</option>
+                                <option value="Niterói"><span>Niterói, </span>Rio de Janeiro</option>
+                                <option value="Belford Roxo"><span>Belford Roxo, </span>Rio de Janeiro</option>
+                            </datalist>
+
                         </fieldset>
 
                         <fieldset id="mensagem">
@@ -181,13 +185,13 @@
                             </legend>
 
                             <div>
-                                <label for="">Grau de Urgência:</label>
-                                    <input type="range" name="tgrau" id="cgrau">
+                                <label for="cgrau">Grau de Urgência:</label>
+                                    Min <input type="range" name="tgrau" id="cgrau" min="0" max="10"> Máx
                             </div>
 
                             <div>
-                                <label for="">Mensagem:</label> <br>
-                                    <textarea name="ttarea" id="ctarea" cols="30" rows="10" placeholder="Escreva sua mensagem"></textarea>
+                                <label for="ctarea">Mensagem:</label> <br>
+                                    <textarea name="ttarea" id="ctarea" cols="45" rows="10" placeholder="Escreva sua mensagem"></textarea>
                             </div>
                         </fieldset>
 
@@ -197,12 +201,12 @@
                             </legend>
 
                             <div>
-                                <label for="">Cor:</label>
+                                <label for="ccor">Cor:</label>
                                     <input type="color" name="tcor" id="ccor">
                             </div>
 
                             <div>
-                                <label for="">Quantidade:</label>
+                                <label for="cquant">Quantidade:</label>
                                     <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto">
                             </div>
 
