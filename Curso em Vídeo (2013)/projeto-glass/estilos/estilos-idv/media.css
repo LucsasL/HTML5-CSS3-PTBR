@@ -1,27 +1,31 @@
 @charset "UTF-8";
 
+article {
+    width: 80vw;
+}
+
 div#tv-radio {
     background: url('../../imagens/radio-tv.png') center no-repeat;
-    width: 80vw;
-    height: 580px;
+    width: 95%;
+    height: 575px;
 
-    margin: auto;
+    margin-top: 30px;
 
     position: relative;
 }
 
-div#tiv-radio iframe {
+div#tv-radio video {
     width: 440px;
 
     position: absolute;
-    top: 85px;
-    left: 90px;
+    top: 125px;
+    left: 203px;
 }
 
 audio#musica {
     display: block;
 
     position: absolute;
-    top: 500px;
-    left: 575px;
+    top: 490px;
+    left: 688px;
 }
