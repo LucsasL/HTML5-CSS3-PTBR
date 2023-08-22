@@ -64,4 +64,8 @@ input:hover, textarea:hover {
 
 div#submit > input {
     width: 60vw;
+    height: 40px;
+    border-radius: 20px;
+    
+    margin-left: -30%;
 }
