@@ -46,67 +46,80 @@ ul#album-fotos li:hover span {
     opacity: 1;
 }
 
-ul#album-fotos li:hover:nth-child(span:hover) {
-    transition-duration: .3;
-    opacity: 100%;
-}
-
 ul#album-fotos li#foto01 {
-    background: url('../../imagens/') center;
+    background: url('../../imagens/galeria-01.jpg') center;
     background-size: cover;
 }
 
 ul#album-fotos li#foto01:hover {
+    background-repeat: no-repeat;
     background-position: 0;
+    background-size: contain;
+
     background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto02 {
-    background: url('../../imagens/') center;
+    background: url('../../imagens/galeria-02.jpg') center;
     background-size: cover;
 }
 
 ul#album-fotos li#foto02:hover {
+    background-repeat: no-repeat;
     background-position: 0;
+    background-size: contain;
+
     background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto03 {
-    background: url('../../imagens/') center;
+    background: url('../../imagens/galeria-03.jpg') center;
     background-size: cover;
 }
 
 ul#album-fotos li#foto03:hover {
+    background-repeat: no-repeat;
     background-position: 0;
+    background-size: contain;
+
     background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto04 {
-    background: url('../../imagens/') center;
+    background: url('../../imagens/galeria-04.jpg') center;
     background-size: cover;
 }
 
 ul#album-fotos li#foto04:hover {
+    background-repeat: no-repeat;
     background-position: 0;
+    background-size: contain;
+
     background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto05 {
-    background: url('../../imagens/') center;
+    background: url('../../imagens/galeria-05.jpg') center;
     background-size: cover;
 }
 
 ul#album-fotos li#foto05:hover {
+    background-repeat: no-repeat;
     background-position: 0;
+    background-size: contain;
+
     background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto06 {
-    background: url('../../imagens/') center;
+    background: url('../../imagens/galeria-06.jpg') center;
     background-size: cover;
 }
 
 ul#album-fotos li#foto06:hover {
+    background-repeat: no-repeat;
     background-position: 0;
+    background-size: contain;
+
     background-size: 50% 50%;
 }

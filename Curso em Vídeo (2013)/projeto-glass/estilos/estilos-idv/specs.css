@@ -3,13 +3,14 @@
 section#conteudo {
     width: 95vw;
     margin: auto;
+    margin-left: -4vw;
 
     display: flex;
     justify-content: center;
 }
 
 iframe#frame-spec {
-    width: 400px;
+    width: 500px;
     height: 280px;
 
     border: none;
