@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+article {
+    width: 80vw;
+}
+
 form {
     width: 60vw;
     max-width: 650px;
@@ -67,5 +71,5 @@ div#submit > input {
     height: 40px;
     border-radius: 20px;
     
-    margin-left: -30%;
+    margin-left: -20%;
 }
