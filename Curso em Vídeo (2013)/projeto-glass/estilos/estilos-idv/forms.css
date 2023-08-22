@@ -72,4 +72,6 @@ div#submit > input {
     border-radius: 20px;
     
     margin-left: -20%;
+
+    cursor: pointer;
 }
