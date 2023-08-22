@@ -53,10 +53,6 @@ ul#album-fotos li#foto01 {
 
 ul#album-fotos li#foto01:hover {
     background-repeat: no-repeat;
-    background-position: 0;
-    background-size: contain;
-
-    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto02 {
@@ -66,10 +62,6 @@ ul#album-fotos li#foto02 {
 
 ul#album-fotos li#foto02:hover {
     background-repeat: no-repeat;
-    background-position: 0;
-    background-size: contain;
-
-    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto03 {
@@ -79,10 +71,6 @@ ul#album-fotos li#foto03 {
 
 ul#album-fotos li#foto03:hover {
     background-repeat: no-repeat;
-    background-position: 0;
-    background-size: contain;
-
-    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto04 {
@@ -92,10 +80,6 @@ ul#album-fotos li#foto04 {
 
 ul#album-fotos li#foto04:hover {
     background-repeat: no-repeat;
-    background-position: 0;
-    background-size: contain;
-
-    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto05 {
@@ -105,10 +89,6 @@ ul#album-fotos li#foto05 {
 
 ul#album-fotos li#foto05:hover {
     background-repeat: no-repeat;
-    background-position: 0;
-    background-size: contain;
-
-    background-size: 50% 50%;
 }
 
 ul#album-fotos li#foto06 {
@@ -118,8 +98,4 @@ ul#album-fotos li#foto06 {
 
 ul#album-fotos li#foto06:hover {
     background-repeat: no-repeat;
-    background-position: 0;
-    background-size: contain;
-
-    background-size: 50% 50%;
 }

@@ -119,8 +119,9 @@ header#page-header {
     height: 170px;
     margin: auto;
     padding: 20px;
+    padding-bottom: 30px;
 
-    background: url('../imagens/glass-logo-peq.jpg') 15px 90% no-repeat;
+    background: url('../imagens/glass-logo-peq.jpg') 15px 95% no-repeat;
 
     border-bottom: 1px solid #606060;
 }

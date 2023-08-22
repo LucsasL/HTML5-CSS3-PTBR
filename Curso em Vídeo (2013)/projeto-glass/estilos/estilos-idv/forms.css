@@ -35,7 +35,7 @@ fieldset#mensagem {
 }
 
 fieldset#pedido {
-    background: url('../../imagens/icone-pagamento.png') 95% 95% no-repeat;
+    background: url('../../imagens/icone-pagamento.png') 95% 100% no-repeat;
 }
 
 fieldset#sexo {

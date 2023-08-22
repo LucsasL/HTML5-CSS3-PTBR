@@ -66,7 +66,7 @@
                     </figure>
                 </nav>
             </header>
-            
+
             <main id="main-interface">
                 <article>
                     <header>
@@ -86,7 +86,7 @@
                         </div>
                     </header>
 
-                    <form action="Scripts/.js" method="post" id="fContato" oninput="calc_total();">
+                    <form action="../Scripts/funcoes.js" method="post" id="fContato" oninput="calc_total();">
                         <fieldset id="usuario">
                             <legend>
                                 Identificação do Usuário
@@ -133,17 +133,17 @@
 
                             <div>
                                 <label for="clog">Logradouro:</label>
-                                    <input type="text" name="tlog" id="clog" placeholder="Rua, Av, Trav">
+                                    <input type="text" name="tlog" id="clog" placeholder="Rua, Av, Trav" required>
                             </div>
 
                             <div>
                                 <label for="cnumero">Número:</label>
-                                    <input type="number" name="tnumero" id="cnumero" min="0">
+                                    <input type="number" name="tnumero" id="cnumero" min="0" required>
                             </div>
 
                             <div>
                                 <label for="cestado">Estado:</label>
-                                    <select name="testado" id="cestado">
+                                    <select name="testado" id="cestado" required>
                                         <option value="Selecione">Selecione estado</option>
                                         <option value="AC">Acre</option>
                                         <option value="AL">Alagoas</option>
@@ -177,7 +177,7 @@
 
                             <div>
                                 <label for="ccidade">Cidade:</label>
-                                    <input type="text" name="tcidade" id="ccidade" placeholder="Sua Cidade" list=cidades>
+                                    <input type="text" name="tcidade" id="ccidade" placeholder="Sua Cidade" list=cidades required>
                             </div>
                             <datalist id="cidades">
                                 <option value="Rio de Janeiro"><span>Rio de Janeiro, </span>Rio de Janeiro</option>
@@ -195,7 +195,7 @@
 
                             <div>
                                 <label for="cgrau">Grau de Urgência:</label>
-                                    Min <input type="range" name="tgrau" id="cgrau" min="0" max="10"> Máx
+                                    <input type="range" name="tgrau" id="cgrau" min="0" max="10">
                             </div>
 
                             <div>
@@ -216,17 +216,17 @@
 
                             <div>
                                 <label for="ccor">Cor:</label>
-                                    <input type="color" name="tcor" id="ccor" value="#0000ff">
+                                    <input type="color" name="tcor" id="ccor" value="#0000ff" required>
                             </div>
 
                             <div>
                                 <label for="cquant">Quantidade:</label>
-                                    <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto" min="0" max="5" value="0">
+                                    <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto" min="0" max="5" value="0" required>
                             </div>
 
                             <div>
                                 <label for="ctot">Preço total:</label>
-                                    <output name="ttot" id="ctot" readonly></output>
+                                    <input name="ttot" id="ctot" readonly required></input>
                             </div>
                         </fieldset>
 
@@ -235,9 +235,6 @@
                         </div>
                     </form>
 
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo nemo atque molestiae beatae laboriosam accusamus veritatis, est iste obcaecati reprehenderit minima corrupti aliquam numquam tempore cumque hic reiciendis quis unde.
-                    </p>
                 </article>
             </main>
         </div>
