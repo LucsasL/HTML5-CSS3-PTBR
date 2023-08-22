@@ -221,3 +221,7 @@ Aqui termino a aula final do **curso de HTML** antigo do *Curso em vídeo,* e fe
 Durante o tempo do desenvolvimento do projeto, as mídias e imagens que existiam no site por [*Gustavo Guanabara*](https://github.com/gustavoguanabara) apresentado no curso não estavam presentes no protótipo que criei, porém, acabo de realizar o curso no site do Curso em Vídeo, e encontrei o pacote de hipermídia mencionado nas aulas, e partirei para aplicar as mídias e imagens no lugar certo no próximo commit.
 
 Continuarei a atualizar e otimizar o site ao [decorrer de meu aprendizado em *JavaScript,*](https://github.com/LucsasL/JavaScript-PTBR) já que existem algumas funções que planejei para a melhora da experiência do usuário, como o menu hamburguer, que é uma função ainda não completa no atual contexto do repositório. Estarei também desenvolvendo uma versão mais moderna do projeto que foi estudado ao decorrer do curso pois estamos falando de um curso bem antigo, que não engloba todos os conceitos e ferramentas presentes em documentos usando *`HTML` e `CSS`.*
+
+### Hipermídias aplicadas - 22 de Agosto de 2023
+
+Como dito na atualização anterior, estive trabalhando com as mídias do site, e pude as aplicar sem problemas, agora, o site realmente se parece com o que foi apresentado no curso, embora haja algumas alterações por conta de Media Queries e outras preferências. Em breve, atualizarei o repositório do site, criando uma branch para uma versão mais recente, e colocarei mudanças gerais na interface.
