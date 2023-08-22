@@ -1,18 +1,67 @@
 @charset "UTF-8";
 
+form {
+    width: 60vw;
+    max-width: 600px;
+    margin: auto;
+}
+
 article header {
     margin-bottom: 30px;
 }
 
 fieldset {
     padding: 20px;
+
+    margin: 20px;
+}
+
+legend {
+    color: #888888;
+    font-weight: bold;
+
+}
+
+fieldset#usuario {
+    background: url('../../imagens/icone-contato.png') 95% 95% no-repeat;
+}
+
+fieldset#endereco {
+    background: url('../../imagens/icone-endereco.png') 95% 95% no-repeat;
+}
+
+fieldset#mensagem {
+    background: url('../../imagens/icone-mensagem.png') 95% 95% no-repeat;
+}
+
+fieldset#pedido {
+    background: url('../../imagens/icone-pagamento.png') 95% 95% no-repeat;
 }
 
 fieldset#sexo {
+    width: 30%;
     padding: 8px;
 }
 
-Input {
+fieldset#usuario Input {
+    width: 90%;
+}
+
+fieldset#endereco Input {
+    width: 90%;
+}
+
+Input, textarea {
+    background-color: rgba(255, 255, 255, 0.6);
+
     padding: 4px;
     margin: 5px;
+}
+
+input:hover, textarea:hover {
+    background-color: lightgray;
+}
+
+div#submit > input {
+    width: 60vw;
 }

@@ -104,7 +104,7 @@ div#interface {
 }
 
 div.main-container {
-    background-color: #dddddd;
+    background-color: #fff;
 
     width: 100vw;
 
@@ -116,11 +116,11 @@ header#page-header {
     justify-content: space-between;
 
     width: 100vw;
-    height: 150px;
+    height: 170px;
     margin: auto;
     padding: 20px;
 
-    background: url('../../../../../../Trabalhos Design/Designs prontos/Lucsas/Profile/Lucsas image for web.png') no-repeat 15px bottom ;
+    background: url('../imagens/glass-logo-peq.jpg') no-repeat 15px bottom ;
 }
 
 header#page-header a {
@@ -170,8 +170,8 @@ nav > ul > li {
 header#page-header figure {
     position: absolute;
 
-    top: 13%;
-    right: 5%;
+    top: 9%;
+    right: 4%;
 }
 
 main {
@@ -225,7 +225,7 @@ table > caption > span {
 td {
     border: 2px solid #606060;
     padding: 5px;
-    background-color: #dddddd;
+    background-color: #fff;
 }
 
 td.header-lateral {
@@ -276,7 +276,7 @@ aside h1 {
     color: #393939;
     font-size: 2em;
 
-    margin: 15px 0px;
+    margin: 25px 0px;
 }
 
 section.aside-section h2 {

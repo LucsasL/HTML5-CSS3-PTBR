@@ -3,6 +3,9 @@
 section#conteudo {
     width: 95vw;
     margin: auto;
+
+    display: flex;
+    justify-content: center;
 }
 
 iframe#frame-spec {

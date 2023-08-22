@@ -213,3 +213,11 @@ Como citado antes, o curso de HTML e CSS que estive estudando durante todo esse 
 ### Primeira atualização e Quase fim do curso...? - 15 de Agosto de 2023
 
 Pelo visto eu esqueci de adicionar atualizações nesse segundo curso de HTML (lol), mas aqui estou, na _Aula 22_ e fazendo a primeira atualização de andamento do curso. Bem, como já relatei no [Repositório de JavaScript,](https://github.com/LucsasL/JavaScript-PTBR) já estou no caminho para estudar JavaScript nesse curso, tendo os meus primeiros exercícios da linguagem já criados, e páginas web basicamente finalizados... Por conta do curso ser basicamente o mesmo do [mais novo,](#conteúdo) acabei por não commitar meu progresso. Voltarei a atualizar o repositório quando acabar o curso, o que provavelmente vai acontecer em breve. (BRUH) ;&#0041;
+
+### Fim do curso - 21 de Agosto de 2023
+
+Aqui termino a aula final do **curso de HTML** antigo do Curso em vídeo
+
+Apliquei as mídias e imagens que eram necessárias para o desenvolvimento do documento 
+
+Continuarei a atualizar e otimizar o site ao decorrer de meu aprendizado em JavaScript, e estarei também desenvolvendo uma versão mais moderna do projeto que foi desenvolvido ao decorrer do curso.

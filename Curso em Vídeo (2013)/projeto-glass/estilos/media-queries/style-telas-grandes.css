@@ -22,7 +22,7 @@ header#page-header nav > span.material-icons {
 }
 
 nav > ul > li {
-    background-color: #dddddd;
+    background-color: #fff;
 
     display: inline-block;
     list-style-type: none;
@@ -54,7 +54,7 @@ div.main-container {
 }
 
 main {
-    background-color: #dddddd;
+    background-color: #fff;
     
     width: 80vw;
     margin: auto;

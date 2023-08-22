@@ -38,19 +38,19 @@
                     </div>
                 </div>
 
-                <nav onmouseout="mudaFoto ('_imagens/especificacoes.png')">
+                <nav>
                     <span class="material-icons">menu</span>
                     <ul>
-                        <li onmouseover="mudaFoto ('_imagens/home.png')"><a href="index.html" target="_self">Home</a></li>
-                        <li onmouseover="mudaFoto ('_imagens/especificacoes.png')"><a href="specs.html" target="_self" rel="next">Especificações</a></li>
-                        <li onmouseover="mudaFoto ('_imagens/fotos.png')"><a href="fotos.html" target="_self" rel="next">Fotos</a></li>
-                        <li onmouseover="mudaFoto ('_imagens/multimidia.png')"><a href="multimidia.html" target="_self" rel="next">Multimídias</a></li>
-                        <li onmouseover="mudaFoto ('_imagens/contato.png')"><a href="fale-conosco.html" target="_self" rel="next">Fale Conosco</a></li>
+                        <li onmouseover="mudaFoto ('../imagens/home.png')" onmouseout="mudaFoto ('../imagens/especificacoes.png')"><a href="index.html" target="_self">Home</a></li>
+                        <li onmouseover="mudaFoto ('../imagens/especificacoes.png')" onmouseout="mudaFoto ('../imagens/especificacoes.png')"><a href="specs.html" target="_self" rel="next">Especificações</a></li>
+                        <li onmouseover="mudaFoto ('../imagens/fotos.png')" onmouseout="mudaFoto ('../imagens/especificacoes.png')"><a href="fotos.html" target="_self" rel="next">Fotos</a></li>
+                        <li onmouseover="mudaFoto ('../imagens/multimidia.png')" onmouseout="mudaFoto ('../imagens/especificacoes.png')"><a href="multimidia.html" target="_self" rel="next">Multimídias</a></li>
+                        <li onmouseover="mudaFoto ('../imagens/contato.png')" onmouseout="mudaFoto ('../imagens/especificacoes.png')"><a href="fale-conosco.html" target="_self" rel="next">Fale Conosco</a></li>
                     </ul>
                     <figure>
-                        <img src="" alt="">
+                        <img src="../imagens/especificacoes.png" alt="Especificações do Google Glass">
             
-                        <figcaption style="display  : none">
+                        <figcaption style="display: none">
                             <p>
                                 Google Glass
                             </p>
@@ -86,12 +86,11 @@
 
                             <section id="conteudo">
                                 <figure>
-                                    <img src="_imagens/glass-esquema-marcado.jpg" alt="Blueprint Google Glass">
-                                    <figcaption>
-                                        Teste
+                                    <img src="../imagens/glass-esquema-marcado.jpg" alt="Blueprint Google Glass">
+                                    <figcaption style="display: none" usemap="meummapa">
+                                        Esquema de features no Google Glass
                                     </figcaption>
 
-                                    <img src="" alt="Google Glass" usemap="#meumapa">
                                     <map name="meumapa">
                                         <area shape="poly" coords="28, 143, 83, 216, 84, 249, 27, 169" href="iframes/google glass.html#" alt="do Google Glass">
 

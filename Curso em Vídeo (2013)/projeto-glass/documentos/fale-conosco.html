@@ -22,7 +22,15 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script lang="javascript" src="../Scripts/funcoes.js"></script>
+    <script>
+        function calc_total() {
+            var qtd = number(document.getElementById('cquant').value)
+                tot = qtd * 1500;
+                document.getElementById('ctot').value = tot;
+        }
+    </script>
 </head>
+
 <body>
     <div id="interface">
         <div class="main-container">
@@ -77,8 +85,8 @@
                         </div>
                     </header>
 
-                    <form action="Scripts/.js" method="post" id="fContato">
-                        <fieldset>
+                    <form action="Scripts/.js" method="post" id="fContato" oninput="calc_total();">
+                        <fieldset id="usuario">
                             <legend>
                                 Identificação do Usuário
                             </legend>
@@ -201,22 +209,27 @@
                             </legend>
 
                             <div>
+                                <input type="checkbox" name="tped" id="cped" checked>
+                                <label for="cped">Gostaria de adquirir um Google Glass quando disponível</label>
+                            </div>
+
+                            <div>
                                 <label for="ccor">Cor:</label>
-                                    <input type="color" name="tcor" id="ccor">
+                                    <input type="color" name="tcor" id="ccor" value="#0000ff">
                             </div>
 
                             <div>
                                 <label for="cquant">Quantidade:</label>
-                                    <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto">
+                                    <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto" min="0" max="5" value="0">
                             </div>
 
                             <div>
-                                <label for="">Preço total:</label>
-                                    <output>R$</output>
+                                <label for="ctot">Preço total:</label>
+                                    <output name="ttot" id="ctot" readonly></output>
                             </div>
                         </fieldset>
 
-                        <div>
+                        <div id="submit">
                             <input type="submit" value="Enviar">
                         </div>
                     </form>
