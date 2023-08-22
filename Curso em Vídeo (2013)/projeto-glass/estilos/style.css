@@ -120,7 +120,9 @@ header#page-header {
     margin: auto;
     padding: 20px;
 
-    background: url('../imagens/glass-logo-peq.jpg') no-repeat 15px bottom ;
+    background: url('../imagens/glass-logo-peq.jpg') 15px 90% no-repeat;
+
+    border-bottom: 1px solid #606060;
 }
 
 header#page-header a {
