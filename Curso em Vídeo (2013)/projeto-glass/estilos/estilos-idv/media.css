@@ -1,19 +1,19 @@
 @charset "UTF-8";
 
 div#tv-radio {
-    background: url('../../imagens/') no-repeat;
+    background: url('../../imagens/radio-tv.png') center no-repeat;
     width: 80vw;
     height: 580px;
 
     margin: auto;
+
+    position: relative;
 }
 
 div#tiv-radio iframe {
-    display: block;
-
     width: 440px;
 
-    position: relative;
+    position: absolute;
     top: 85px;
     left: 90px;
 }
@@ -21,7 +21,7 @@ div#tiv-radio iframe {
 audio#musica {
     display: block;
 
-    position: relative;
+    position: absolute;
     top: 500px;
     left: 575px;
 }
