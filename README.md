@@ -214,10 +214,10 @@ Como citado antes, o curso de HTML e CSS que estive estudando durante todo esse 
 
 Pelo visto eu esqueci de adicionar atualizações nesse segundo curso de HTML (lol), mas aqui estou, na _Aula 22_ e fazendo a primeira atualização de andamento do curso. Bem, como já relatei no [Repositório de JavaScript,](https://github.com/LucsasL/JavaScript-PTBR) já estou no caminho para estudar JavaScript nesse curso, tendo os meus primeiros exercícios da linguagem já criados, e páginas web basicamente finalizados... Por conta do curso ser basicamente o mesmo do [mais novo,](#conteúdo) acabei por não commitar meu progresso. Voltarei a atualizar o repositório quando acabar o curso, o que provavelmente vai acontecer em breve. (BRUH) ;&#0041;
 
-### Fim do curso - 21 de Agosto de 2023
+### Fim do curso + Aplicação de mídias- 22 de Agosto de 2023
 
-Aqui termino a aula final do **curso de HTML** antigo do Curso em vídeo
+Aqui termino a aula final do **curso de HTML** antigo do *Curso em vídeo,* e fecho de vez, os cursos de HTML que existem nesse canal de educação em tecnologia, que tanto me ajudou ao longo do tempo. Meu foco estará mais voltado para programação, pois começarei a estudar o *Curso de Algoritmo do Curso em Vídeo.*
 
-Apliquei as mídias e imagens que eram necessárias para o desenvolvimento do documento 
+Durante o tempo do desenvolvimento do projeto, as mídias e imagens que existiam no site por *(Gustavo Guanabara)[https://github.com/gustavoguanabara]* apresentado no curso não estavam presentes no protótipo que criei, porém, acabo de realizar o curso no site do Curso em Vídeo, e encontrei o pacote de hipermídia mencionado nas aulas, e partirei para aplicar as mídias e imagens no lugar certo no próximo commit.
 
-Continuarei a atualizar e otimizar o site ao decorrer de meu aprendizado em JavaScript, e estarei também desenvolvendo uma versão mais moderna do projeto que foi desenvolvido ao decorrer do curso.
+Continuarei a atualizar e otimizar o site ao (decorrer de meu aprendizado em *JavaScript,*)[https://github.com/LucsasL/JavaScript-PTBR] já que existem algumas funções que planejei para a melhora da experiência do usuário, como o menu hamburguer, que é uma função ainda não completa no atual contexto do repositório. Estarei também desenvolvendo uma versão mais moderna do projeto que foi estudado ao decorrer do curso pois estamos falando de um curso bem antigo, que não engloba todos os conceitos e ferramentas presentes em documentos usando *`HTML` e `CSS`.*
