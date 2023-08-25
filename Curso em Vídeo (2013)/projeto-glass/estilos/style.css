@@ -161,7 +161,7 @@ nav > ul > li {
 header#page-header figure {
     position: absolute;
 
-    top: 9%;
+    top: 13%;
     right: 4%;
 }
 
@@ -178,7 +178,7 @@ main a:hover {
 
 div.table {
     width: 100%;
-    height: 310px;
+    height: 360px;
     margin: auto;
 
     position: relative;
@@ -307,9 +307,21 @@ figure.foto-legenda img {
     height: 100%;
 }
 
-div#aside-box div {
+div#aside-box div#author-area {
     display: none;
 }
+
+div#aside-box img.socials-img {
+    margin-right: 10px;
+    margin-top: 10px;
+
+    display: block;
+    width: 40px;
+}
+
+div#aside-box img.socials-img:hover {
+    opacity: .7;
+} 
 
 /* Formatações de mídia */
 figure.foto-legenda figcaption p {

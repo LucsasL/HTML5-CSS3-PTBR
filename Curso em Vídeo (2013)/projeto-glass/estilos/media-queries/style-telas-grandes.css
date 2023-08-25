@@ -43,6 +43,7 @@ nav > ul > li:hover {
 
 header#page-header figure {
     position: absolute;
+    top: 9%;
     right: 14%;
 }
 
@@ -74,12 +75,17 @@ div#main-reading-spec {
     width: 80vw;
 }
 
+div.table {
+    height: 310px;
+}
+
 div#aside-box {
     width: 40%;
 }
 
-div#aside-box div {
-    display: block;
+div#aside-box div#author-area {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 div#aside-box img.socials-img {
