@@ -4,27 +4,37 @@ article {
     width: 80vw;
 }
 
+div#container {
+    background-color: rgb(65, 65, 65);
+    width: 100vw;
+    margin-left: -10vw;
+}
+
 div#tv-radio {
-    width: 95%;
-    height: 575px;
+    width: 100vw;
+    height: 675px;
 
     margin-top: 30px;
 
     position: relative;
 }
 
-div#tv-radio video {
+div#tv-radio > iframe {
     width: 440px;
 
     position: absolute;
-    top: 125px;
-    left: 203px;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
-audio#musica {
+div#musica {
     display: block;
+    width: 100vw;
 
-    position: absolute;
-    top: 490px;
-    left: 688px;
+    display: flex;
+    justify-content: center;
+
+    padding: 20px;
 }
