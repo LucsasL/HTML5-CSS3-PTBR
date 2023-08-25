@@ -307,6 +307,10 @@ figure.foto-legenda img {
     height: 100%;
 }
 
+div#aside-box div {
+    display: none;
+}
+
 /* Formatações de mídia */
 figure.foto-legenda figcaption p {
     color: #232323;

@@ -78,6 +78,22 @@ div#aside-box {
     width: 40%;
 }
 
+div#aside-box div {
+    display: block;
+}
+
+div#aside-box img.socials-img {
+    margin-right: 10px;
+    margin-top: 10px;
+
+    display: block;
+    width: 40px;
+}
+
+div#aside-box img.socials-img:hover {
+    opacity: .7;
+} 
+
 aside {
     width: 95%;
     height: auto;
