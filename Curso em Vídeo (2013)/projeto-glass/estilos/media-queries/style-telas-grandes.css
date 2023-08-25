@@ -49,8 +49,6 @@ header#page-header figure {
 div.main-container {
     width: 80vw;
     margin: auto;
-
-    box-shadow: 0px 0px 5px black;
 }
 
 main {
@@ -70,10 +68,6 @@ div#main-reading {
     width: 60%;
 
     padding: 10px 20px;
-
-    border-top: 1px solid #606060;
-    border-bottom: 1px solid #606060;
-    border-right: 1px solid #606060;
 }
 
 div#main-reading-spec {
@@ -82,9 +76,6 @@ div#main-reading-spec {
 
 div#aside-box {
     width: 40%;
-
-    border-top: 1px solid #606060;
-    border-bottom: 1px solid #606060;
 }
 
 aside {

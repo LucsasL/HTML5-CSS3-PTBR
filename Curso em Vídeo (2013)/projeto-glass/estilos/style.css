@@ -1,8 +1,9 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+:root {
+    --fonte-base: font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    ;
+}
 
 /* Formatação gerais */
 * {
@@ -19,8 +20,6 @@
 }
 
 body {
-    background-color: #8f8f8f;
-
     width: 100vw;
     height: 100vh;
 
@@ -32,14 +31,12 @@ body {
 
 /* Formatações de textos */
 header#page-header div.hgroup > h1 {
-    font-family: 'Bubblegum Sans', sans-serif;
     font-size: 35px;
     color: #393939;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
 }
 
 main div.hgroup > h1 {
-    font-family: 'Bubblegum Sans', sans-serif;
     font-size: 35px;
     color: #393939;
 
@@ -48,13 +45,11 @@ main div.hgroup > h1 {
 }
 
 header#page-header div.hgroup > h2 {
-    font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
     color: #393939;
 }
 
 div.hgroup > p {
-    font-family: 'Titilium Web', sans-serif;
     font-size: 15px;
     color: #393939;
     margin-bottom: 3px;
@@ -68,7 +63,6 @@ div.hgroup p#up-data {
 
 h1 {
     font-size: 1.7em;
-
 }
 
 h2.bg-gray-text {
@@ -76,8 +70,10 @@ h2.bg-gray-text {
     color: rgb(86, 86, 86);
 
     font-size: 1.3em;
-    padding: 5px; 
+    padding: 8px; 
     margin-top: 5px;
+
+    border-radius: 8px;
 }
 
 p {
@@ -103,21 +99,12 @@ div#interface {
     width: 100vw;
 }
 
-div.main-container {
-    background-color: #fff;
-
-    width: 100vw;
-
-    box-shadow: 1px 1px 4px black;
-}
-
 header#page-header {
     display: flex;
     justify-content: space-between;
 
     width: 100vw;
     height: 170px;
-    margin: auto;
     padding: 20px;
     padding-bottom: 30px;
 
@@ -150,7 +137,8 @@ nav > ul > li {
     display: none;
     list-style-type: none;
 
-    padding: 7px;
+    padding: 10px;
+    border-radius: 20px;
     cursor: pointer;
 }
 
@@ -178,11 +166,10 @@ header#page-header figure {
 }
 
 main {
+    color: #404040;
     width: 100vw;
     padding: 20px;
-
-    border-top: 1px solid #606060;
-    border-bottom: 1px solid #606060;
+    line-height: 1.7em;
 }
 
 main a:hover {
@@ -191,7 +178,7 @@ main a:hover {
 
 div.table {
     width: 100%;
-    height: 250px;
+    height: 310px;
     margin: auto;
 
     position: relative;
@@ -261,11 +248,13 @@ div.video > video {
 
 aside {
     background-color: rgb(192, 192, 192);
+    color: black;
 
     display: flex;
     flex-direction: column;
     align-items: center;
 
+    border-radius: 20px;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.615);
 }
 
@@ -288,8 +277,13 @@ section.aside-section h2 {
     
     font-size: 1.3em;
 
-    padding: 5px 0px 5px 15px;
+    padding: 10px 0px 10px 15px;
     margin: 5px 0px 0px 0px;
+    border-radius: 3px 20px;
+}
+
+section.aside-section h2#video-h {
+    border-radius: 20px 20px 0px 0px;
 }
 
 aside > div#aside-video {
@@ -308,35 +302,20 @@ div#aside-video > video {
     width: 100%;
 }
 
-/* Formatações de mídia */
-figure.foto-legenda {
-    border: 8px solid rgb(225, 225, 225);
-    box-shadow: 1px 1px 4px black;
-
-    position: relative;
-}
-
 figure.foto-legenda img {
     width: 100%;
     height: 100%;
 }
 
-figure.foto-legenda figcaption {
-    background-color: rgba(0, 0, 0, .4);
-    color: white;
-    opacity: 0;
-    transition: .5s;
+/* Formatações de mídia */
+figure.foto-legenda figcaption p {
+    color: #232323;
 
-    width: 100%;
-    height: 99%;
-    padding: 10px;
+    font-size: 0.83em;
+    text-indent: 0;
 
-    position: absolute;
-    top: 0;
-}
-
-figure.foto-legenda figcaption:hover {
-    opacity: 100%;
+    margin-top: -7px;
+    margin-bottom: 15px;
 }
 
 /* Formatação de rodapé */
