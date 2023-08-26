@@ -81,7 +81,9 @@ div.table {
 
 div#aside-box {
     width: 40%;
+}
 
+aside {
     position: sticky;
     top: 3%;
 }
