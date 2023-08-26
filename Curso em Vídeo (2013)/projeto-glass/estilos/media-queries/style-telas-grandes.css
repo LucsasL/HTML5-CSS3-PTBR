@@ -81,6 +81,9 @@ div.table {
 
 div#aside-box {
     width: 40%;
+
+    position: sticky;
+    top: 3%;
 }
 
 div#aside-box div#author-area {
