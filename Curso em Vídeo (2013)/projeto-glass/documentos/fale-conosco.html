@@ -25,7 +25,7 @@
     <script>
         function calc_total() {
             var qtd = number(document.getElementById('cquant').value)
-                tot = qtd * 1500;
+                tot = ("R$ " + qtd * 1500)
                 document.getElementById('ctot').value = tot;
         }
     </script>
@@ -69,171 +69,167 @@
 
             <main id="main-interface">
                 <article>
-                    <header>
-                        <div class="hgroup">
-                            <p>
-                                Fale conosco > Contato
-                            </p>
-                            <h1 class="main-h1">
-                                Formulário de Contato
-                            </h1>
-                            <p>
-                                Por <a href="https://github.com/gustavoguanabara" rel="Gustavo Guanabara" target="_blank" rel="noopener noreferrer" style="color: #393939;">Gustavo Guanabara</a>
-                            </p>
-                            <p id="up-data">
-                                Atualizado em 23/Abr/2023?
-                            </p>
-                        </div>
-                    </header>
-
-                    <form action="../Scripts/funcoes.js" method="post" id="fContato" oninput="calc_total();">
-                        <fieldset id="usuario">
-                            <legend>
-                                Identificação do Usuário
-                            </legend>
-
-                            <div>
-                                <label for="cnome" id="usuario">Nome:</label>
-                                    <input type="text" name="tnome" id="cnome" placeholder="Nome completo" required size="20" maxlength="30">
+                    <div id="esquerda">
+                        <header>
+                            <div class="hgroup">
+                                <p>
+                                    Fale conosco > Contato
+                                </p>
+                                <h1 class="main-h1">
+                                    Formulário de Contato
+                                </h1>
+                                <p>
+                                    Por <a href="https://github.com/gustavoguanabara" rel="Gustavo Guanabara" target="_blank" rel="noopener noreferrer" style="color: #393939;">Gustavo Guanabara</a>
+                                </p>
+                                <p id="up-data">
+                                    Atualizado em 23/Abr/2023?
+                                </p>
                             </div>
-
-                            <div>
-                                <label for="csenha">Senha:</label>
-                                    <input type="password" name="tsenha" id="csenha" placeholder="Sua senha" required minlength="8" size="20">
-                            </div>
-
-                            <div>
-                                <label for="cemail">E-mail:</label>
-                                    <input type="email" name="temail" id="cemail" placeholder="Seu email" required>
-                            </div>
-
-                            <fieldset id="sexo">
-
+                        </header>
+                        <form action="../Scripts/funcoes.js" method="post" id="fContato" oninput="calc_total();">
+                            <fieldset id="usuario">
                                 <legend>
-                                    Sexo:
+                                    Identificação do Usuário
                                 </legend>
-
-                                <input type="radio" name="tsexo" id="cm" required></input>
-                                    <label for="cm">Masculino</label>
-
-                                <input type="radio" name="tsexo" id="cf" required></input>
-                                    <label for="cf">Feminino</label>
+                                <div>
+                                    <label for="cnome" id="usuario">Nome:</label>
+                                        <input type="text" name="tnome" id="cnome" placeholder="Nome completo" required size="20" maxlength="30" class="text">
+                                </div>
+                                <div>
+                                    <label for="csenha">Senha:</label>
+                                        <input type="password" name="tsenha" id="csenha" placeholder="Sua senha" required minlength="8" size="20" class="text">
+                                </div>
+                                <div>
+                                    <label for="cemail">E-mail:</label>
+                                        <input type="email" name="temail" id="cemail" placeholder="Seu email" required class="text">
+                                </div>
+                                <fieldset id="sexo">
+                                    <legend>
+                                        Sexo:
+                                    </legend>
+                                    <input type="radio" name="tsexo" id="cm" required></input>
+                                        <label for="cm">Masculino</label>
+                                    <input type="radio" name="tsexo" id="cf" required></input>
+                                        <label for="cf">Feminino</label>
+                                </fieldset>
+                                <div>
+                                    <label for="cdatan">Data de Nascimento:</label>
+                                        <input type="date" name="tdatan" id="cdatan" required>
+                                </div>
                             </fieldset>
-
-                            <div>
-                                <label for="cdatan">Data de Nascimento:</label>
-                                    <input type="date" name="tdatan" id="cdatan" required>
+                            <fieldset id="endereco">
+                                <legend>
+                                    Endereço do Usuário
+                                </legend>
+                                <div>
+                                    <label for="clog">Logradouro:</label>
+                                        <input type="text" name="tlog" id="clog" placeholder="Rua, Av, Trav" required class="text">
+                                </div>
+                                <div>
+                                    <label for="cnumero">Número:</label>
+                                        <input type="number" name="tnumero" id="cnumero" min="0" required>
+                                </div>
+                                <div>
+                                    <label for="cestado">Estado:</label>
+                                        <select name="testado" id="cestado" required>
+                                            <option value="Selecione">Selecione estado</option>
+                                            <option value="AC">Acre</option>
+                                            <option value="AL">Alagoas</option>
+                                            <option value="AP">Amapá</option>
+                                            <option value="AM">Amazonas</option>
+                                            <option value="BA">Bahia</option>
+                                            <option value="CE">Ceará</option>
+                                            <option value="ES">Espírito Santo</option>
+                                            <option value="GO">Goiás</option>
+                                            <option value="MA">Maranhão</option>
+                                            <option value="MT">Mato Grosso</option>
+                                            <option value="MS">Mato Grosso do Sul</option>
+                                            <option value="MG">Minas Gerais</option>
+                                            <option value="PA">Pará</option>
+                                            <option value="PB">Paraíba</option>
+                                            <option value="PR">Paraná</option>
+                                            <option value="PE">Pernambuco</option>
+                                            <option value="PI">Piauí</option>
+                                            <option value="RJ">Rio de Janeiro</option>
+                                            <option value="RN">Rio Grande do Norte</option>
+                                            <option value="RS">Rio Grande do Sul</option>
+                                            <option value="RO">Rôndonia</option>
+                                            <option value="RR">Roraima</option>
+                                            <option value="SC">Santa Catarina</option>
+                                            <option value="SP">São Paulo</option>
+                                            <option value="SE">Sergipe</option>
+                                            <option value="TO">Tocantis</option>
+                                            <option value="DF">Distrito Federal</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <label for="ccidade">Cidade:</label>
+                                        <input type="text" name="tcidade" id="ccidade" placeholder="Sua Cidade" list=cidades required>
+                                </div>
+                                <datalist id="cidades">
+                                    <option value="Rio de Janeiro"><span>Rio de Janeiro, </span>Rio de Janeiro</option>
+                                    <option value="Nova Iguaçu"><span>Nova Iguaçu, </span>Rio de Janeiro</option>
+                                    <option value="Niterói"><span>Niterói, </span>Rio de Janeiro</option>
+                                    <option value="Belford Roxo"><span>Belford Roxo, </span>Rio de Janeiro</option>
+                                </datalist>
+                            </fieldset>
+                            <fieldset id="mensagem">
+                                <legend>
+                                    Mensagem do Usuário
+                                </legend>
+                                <div>
+                                    <label for="cgrau">Grau de Urgência:</label>
+                                        <input type="range" name="tgrau" id="cgrau" min="0" max="10">
+                                </div>
+                                <div>
+                                    <label for="ctarea">Mensagem:</label> <br>
+                                        <textarea name="ttarea" id="ctarea" cols="45" rows="10" placeholder="Escreva sua mensagem"></textarea>
+                                </div>
+                            </fieldset>
+                            <fieldset id="pedido">
+                                <legend>
+                                    Quero um Google Glass
+                                </legend>
+                                <div>
+                                    <input type="checkbox" name="tped" id="cped" checked>
+                                    <label for="cped">Gostaria de adquirir um Google Glass quando disponível</label>
+                                </div>
+                                <div>
+                                    <label for="ccor">Cor:</label>
+                                        <input type="color" name="tcor" id="ccor" value="#0000ff" required>
+                                </div>
+                                <div>
+                                    <label for="cquant">Quantidade:</label>
+                                        <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto" min="0" max="5" value="0" required>
+                                </div>
+                                <div>
+                                    <label for="ctot">Preço total:</label>
+                                        <input name="ttot" id="ctot" readonly required></input>
+                                </div>
+                            </fieldset>
+                            <div id="submit">
+                                <input type="submit" value="Enviar">
                             </div>
-                        </fieldset>
+                        </form>
+                    </div>
 
-                        <fieldset id="endereco">
-                            <legend>
-                                Endereço do Usuário
-                            </legend>
+                    <div id="direita">
+                        <h1>
+                            Peça já seu Google Glass!
+                        </h1>
 
-                            <div>
-                                <label for="clog">Logradouro:</label>
-                                    <input type="text" name="tlog" id="clog" placeholder="Rua, Av, Trav" required>
-                            </div>
+                        <p style="margin-top: 20px;">
+                            Nós da <strong>[MARCA]</strong> prezamos por uma entrega de qualidade pelo que oferecemos e desenvolvemos nossas meios e métodos de acordo com a necessidade de nosso clientes e apoiadores.
+                        </p>
 
-                            <div>
-                                <label for="cnumero">Número:</label>
-                                    <input type="number" name="tnumero" id="cnumero" min="0" required>
-                            </div>
-
-                            <div>
-                                <label for="cestado">Estado:</label>
-                                    <select name="testado" id="cestado" required>
-                                        <option value="Selecione">Selecione estado</option>
-                                        <option value="AC">Acre</option>
-                                        <option value="AL">Alagoas</option>
-                                        <option value="AP">Amapá</option>
-                                        <option value="AM">Amazonas</option>
-                                        <option value="BA">Bahia</option>
-                                        <option value="CE">Ceará</option>
-                                        <option value="ES">Espírito Santo</option>
-                                        <option value="GO">Goiás</option>
-                                        <option value="MA">Maranhão</option>
-                                        <option value="MT">Mato Grosso</option>
-                                        <option value="MS">Mato Grosso do Sul</option>
-                                        <option value="MG">Minas Gerais</option>
-                                        <option value="PA">Pará</option>
-                                        <option value="PB">Paraíba</option>
-                                        <option value="PR">Paraná</option>
-                                        <option value="PE">Pernambuco</option>
-                                        <option value="PI">Piauí</option>
-                                        <option value="RJ">Rio de Janeiro</option>
-                                        <option value="RN">Rio Grande do Norte</option>
-                                        <option value="RS">Rio Grande do Sul</option>
-                                        <option value="RO">Rôndonia</option>
-                                        <option value="RR">Roraima</option>
-                                        <option value="SC">Santa Catarina</option>
-                                        <option value="SP">São Paulo</option>
-                                        <option value="SE">Sergipe</option>
-                                        <option value="TO">Tocantis</option>
-                                        <option value="DF">Distrito Federal</option>
-                                </select>
-                            </div>
-
-                            <div>
-                                <label for="ccidade">Cidade:</label>
-                                    <input type="text" name="tcidade" id="ccidade" placeholder="Sua Cidade" list=cidades required>
-                            </div>
-                            <datalist id="cidades">
-                                <option value="Rio de Janeiro"><span>Rio de Janeiro, </span>Rio de Janeiro</option>
-                                <option value="Nova Iguaçu"><span>Nova Iguaçu, </span>Rio de Janeiro</option>
-                                <option value="Niterói"><span>Niterói, </span>Rio de Janeiro</option>
-                                <option value="Belford Roxo"><span>Belford Roxo, </span>Rio de Janeiro</option>
-                            </datalist>
-
-                        </fieldset>
-
-                        <fieldset id="mensagem">
-                            <legend>
-                                Mensagem do Usuário
-                            </legend>
-
-                            <div>
-                                <label for="cgrau">Grau de Urgência:</label>
-                                    <input type="range" name="tgrau" id="cgrau" min="0" max="10">
-                            </div>
-
-                            <div>
-                                <label for="ctarea">Mensagem:</label> <br>
-                                    <textarea name="ttarea" id="ctarea" cols="45" rows="10" placeholder="Escreva sua mensagem"></textarea>
-                            </div>
-                        </fieldset>
-
-                        <fieldset id="pedido">
-                            <legend>
-                                Quero um Google Glass
-                            </legend>
-
-                            <div>
-                                <input type="checkbox" name="tped" id="cped" checked>
-                                <label for="cped">Gostaria de adquirir um Google Glass quando disponível</label>
-                            </div>
-
-                            <div>
-                                <label for="ccor">Cor:</label>
-                                    <input type="color" name="tcor" id="ccor" value="#0000ff" required>
-                            </div>
-
-                            <div>
-                                <label for="cquant">Quantidade:</label>
-                                    <input type="number" name="tquant" id="cquant" placeholder="Quant. do produto" min="0" max="5" value="0" required>
-                            </div>
-
-                            <div>
-                                <label for="ctot">Preço total:</label>
-                                    <input name="ttot" id="ctot" readonly required></input>
-                            </div>
-                        </fieldset>
-
-                        <div id="submit">
-                            <input type="submit" value="Enviar">
-                        </div>
-                    </form>
+                        <figure>
+                            <figcaption style="display: none;">
+                                GRU KKKKKKKKKKKKKKKKKK
+                            </figcaption>
+                            
+                            <img src="../imagens/GRU.jpg" alt="Imagem aleatoria porque tô sem ideia">
+                        </figure>
+                    </div>
 
                 </article>
             </main>
