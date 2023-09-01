@@ -208,6 +208,8 @@ Como citado antes, o curso de HTML e CSS que estive estudando durante todo esse 
 
    * <a href="Curso em Vídeo (2013)/projeto-glass/index.html" target="_blank" rel="noopener noreferrer">Projeto Google Glass.</a>
 
+   * <a href="Curso em Vídeo (2013)/projeto-glass/index.html" target="_blank" rel="noopener noreferrer">Projeto Google Glass - Versão Moderna</a>
+
 ## Atualizações
 
 ### Primeira atualização e Quase fim do curso...? - 15 de Agosto de 2023
