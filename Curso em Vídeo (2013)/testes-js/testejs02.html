@@ -12,15 +12,15 @@
 
         function mudaLampada(tipo) {
             if (tipo == 1) {
-                arquivo = '../../Arquivos Gerais/Imagens/curso-de-html-css.png'
+                arquivo = '../imagens/lampada-apagada'
             }
 
             if (tipo == 2) {
-                arquivo = '../../../../../Repositórios/Git-e-GitHub-PTBR/Imagens/Git e Github design.png'                                          
+                arquivo = '../imagens/lampada-acessa'                                          
             }
 
             if (tipo == 3) {
-                arquivo = '../../../../Estudos/JavaScript (PT-BR)/Imagens/JS design.png'
+                arquivo = '../imagens/lampada-quebrada'
 
             }
             if (!quebrada) {
@@ -41,7 +41,7 @@
     </h1>
 
     <figure>
-        <img src="../../Arquivos Gerais/Imagens/curso-de-html-css.png" alt="&quot;Lâmpada&quot;" style="width: 90vw;" id="luz"  onmouseout="mudaLampada(1)" onmousemove="mudaLampada(2)" onclick="mudaLampada(3)">
+        <img src="../imagens/lampada-apagada" alt="&quot;Lâmpada&quot;" style="width: 90vw;" id="luz"  onmouseout="mudaLampada(1)" onmousemove="mudaLampada(2)" onclick="mudaLampada(3)">
     </figure>
 
 </body>
